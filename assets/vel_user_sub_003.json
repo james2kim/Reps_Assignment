@@ -1,0 +1,23 @@
+{
+    "full_transcript": "Hi, I'm explaining Zaloric to a pharmacist today. Zaloric contains Lydrenex at a high dose, specifically for muscle spasms. It works by blocking pain signals in the spinal cord. It's much more potent than over-the-counter NSAIDs for acute back pain.",
+    "segments": [
+        {
+            "start": "00:00",
+            "end": "00:08",
+            "text": "Hi, I'm explaining Zaloric to a pharmacist today.",
+            "speaker": "Sales Rep"
+        },
+        {
+            "start": "00:09",
+            "end": "00:18",
+            "text": "Zaloric contains Lydrenex at a high dose, specifically for muscle spasms.",
+            "speaker": "Sales Rep"
+        },
+        {
+            "start": "00:19",
+            "end": "00:30",
+            "text": "It works by blocking pain signals in the spinal cord. It's much more potent than over-the-counter NSAIDs for acute back pain.",
+            "speaker": "Sales Rep"
+        }
+    ]
+}

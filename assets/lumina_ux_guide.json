@@ -1,0 +1,70 @@
+[
+  {
+    "page": 1,
+    "text": "Sentivue AI: Lumina UX and Insight Guide. Sales Strategy: The Art of the Insight. 1. The Sentivue Philosophy: Minimalist Intelligence. Lumina is the 'Executive Brain' that summarizes the noise of the cloud. 2. Dashboard UX: 'Zero-Click' Reporting. Generative AI creates dynamic dashboards. Table 1: Lumina Component Architecture.",
+    "sections": [
+      {
+        "id": "sec_1_1",
+        "heading": "1. The Sentivue Philosophy: Minimalist Intelligence",
+        "content": "Focuses on providing insights rather than raw data, acting as an executive brain for business decisions."
+      },
+      {
+        "id": "sec_1_2",
+        "heading": "2. Dashboard UX: 'Zero-Click' Reporting",
+        "content": "Leverages Generative AI to deliver personalized dashboards for different roles (e.g., Marketing vs. Finance)."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_1_1",
+        "title": "Table 1: Lumina Component Architecture",
+        "headers": ["Module", "Technology", "User Benefit"],
+        "rows": [
+          ["Senti-Summary", "LLM-based NLP", "Condenses multi-page reports into 3 bullet points"],
+          ["Trend-Pulse", "Predictive RNN", "Forecasts metrics 6 months into the future"],
+          ["Query-Flow", "Natural Language Query", "Allows conversational charting (e.g., 'Why are sales down?')"],
+          ["Insight-Visuals", "Dynamic SVG", "Auto-generating charts highlighting key data points"]
+        ],
+        "metadata": {
+          "feature_set": true
+        }
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "text": "3. Predictive Analytics: The 'Future-Sight' Engine. Lumina tells you what will happen tomorrow. Table 2: Prediction Accuracy by Sector. 4. Positioning Sentivue vs. Infrastructure. 5. Implementation Strategy: The CXO Pitch.",
+    "sections": [
+      {
+        "id": "sec_2_1",
+        "heading": "3. Predictive Analytics: The 'Future-Sight' Engine",
+        "content": "Lumina moves beyond historical data to provide future forecasts across retail, SaaS, and finance."
+      },
+      {
+        "id": "sec_2_2",
+        "heading": "4. Positioning Sentivue vs. Infrastructure",
+        "content": "Differentiates from infrastructure companies (like Kyberon) by focusing on the 'Message' and business strategy rather than the 'Machine'."
+      },
+      {
+        "id": "sec_2_3",
+        "heading": "5. Implementation Strategy: The CXO Pitch",
+        "content": "Positions Lumina as a digital advisor that ensures the user is always three steps ahead of the competition."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_2_1",
+        "title": "Table 2: Prediction Accuracy by Sector",
+        "headers": ["Business Sector", "Standard Analytics Accuracy", "Lumina Prediction Accuracy", "Market Advantage"],
+        "rows": [
+          ["Retail (Demand)", "68%", "92%", "Inventory optimization"],
+          ["SaaS (Churn)", "71%", "89%", "Proactive customer retention"],
+          ["Finance (Trends)", "54%", "84%", "Faster investment pivots"]
+        ],
+        "metadata": {
+          "benchmarks": true
+        }
+      }
+    ]
+  }
+]

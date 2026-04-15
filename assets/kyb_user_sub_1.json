@@ -1,0 +1,23 @@
+{
+  "full_transcript": "Hello, I'm pitching GridMaster to a Tier-IV Data Center CTO. Our main value proposition is the reduction in PUE. By using our K-Logic processors and 128-point thermal nets, we can predict hotspots before they occur, reducing cooling costs by up to 32 percent. This isn't just software; it's hardware optimization for the AI age.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:12",
+      "text": "Hello, I'm pitching GridMaster to a Tier-IV Data Center CTO. Our main value proposition is the reduction in PUE.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:13",
+      "end": "00:25",
+      "text": "By using our K-Logic processors and 128-point thermal nets, we can predict hotspots before they occur.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:26",
+      "end": "00:38",
+      "text": "This reduces cooling costs by up to 32 percent. This isn't just software; it's hardware optimization for the AI age.",
+      "speaker": "Sales Rep"
+    }
+  ]
+}

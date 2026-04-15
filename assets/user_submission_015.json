@@ -1,0 +1,17 @@
+{
+  "full_transcript": "The LCVD process ensures that the chirality of the single-walled carbon nanotubes is maintained throughout the molecular weave. This creates a hexagonal lattice with zero-defect junctions, maximizing electron mobility and ensuring that the sp2 hybridization of the carbon atoms remains stable under high thermal stress. It’s the ultimate solution for high-tensile, conductive applications requiring microscopic precision.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:15",
+      "text": "The LCVD process ensures that the chirality of the nanotubes is maintained throughout the molecular weave.",
+      "speaker": "Danny Rand"
+    },
+    {
+      "start": "00:16",
+      "end": "00:30",
+      "text": "This creates a hexagonal lattice with zero-defect junctions, maximizing electron mobility.",
+      "speaker": "Danny Rand"
+    }
+  ]
+}

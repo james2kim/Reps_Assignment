@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "id": "comp-veldra-001",
+      "name": "Veldra Therapeutics",
+      "description": "A General Physical Wellness company specializing in medicine cabinet staples, including antibiotics, pain relief, and anti-inflammatories. Focuses on reliable, fast-acting household treatments."
+    },
+    {
+      "id": "comp-aetheris-002",
+      "name": "Aetheris Pharma",
+      "description": "A Neurological and Mental Wellness company focused on brain function, sleep quality, and stress management. Known for a premium, calming 'peace of mind' approach to pharmaceutical care."
+    },
+    {
+      "id": "comp-kyberon-003",
+      "name": "Kyberon Cloud",
+      "description": "An infrastructure 'Foundations' company managing physical and virtual architecture for Data Centers. Specializes in server management, virtualization, and hardware monitoring for industrial-scale IT."
+    },
+    {
+      "id": "comp-sentivue-004",
+      "name": "Sentivue AI",
+      "description": "An 'Intelligence' company building AI models and predictive analytics for marketing and product teams. Focuses on minimalist, futuristic software that automates customer support and trend prediction."
+    },
+    {
+      "id": "comp-hexaloom-005",
+      "name": "Hexaloom Nanoworks",
+      "description": "A 'Super-Material' manufacturer specializing in carbon nanotubes and molecular manufacturing. Primary focus is the synthesis of Hexenon for robotics, medical, defense, and aerospace applications."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "full_transcript": "Hello and welcome to the Sentilink integration walkthrough. My name is Alex, and I'm a Senior Product Manager here at Sentivue AI. Today we are talking about speed. Specifically, the speed of thought. In generative AI, latency is the enemy. If your data can't reach the model fast enough, the AI 'stutters.' This is where Sentilink comes in. Powered by the Vorex engine, Sentilink acts as the 'Insight Bridge.' Now, keep in mind, our friends at Kyberon use Vorex for hardware protection. But at Sentivue, we use it for throughput. Vorex has this incredibly efficient low-level processing capability that we've tuned for data ingestion. In this demo, we are feeding 500 million customer touchpoints into a Lumina predictive model. On the left, you see a standard API connection. It's struggling—bottlenecked by traditional data protocols. On the right, you see Sentilink. Because Vorex is processing the data at the 'edge' of the cloud, the AI model receives perfectly formatted data tokens almost instantly. We've measured a 15x increase in 'Time to First Insight.' For a marketing team running real-time ad bidding, that 15x speed difference is the difference between winning a customer and losing them to a faster competitor. Sentilink is the bridge that lets your AI finally think at the speed of business.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:50",
+      "text": "Hello and welcome to the Sentilink integration walkthrough. Today we are talking about the speed of thought in generative AI.",
+      "speaker": "Alex, Sentivue PM"
+    },
+    {
+      "start": "00:51",
+      "end": "01:45",
+      "text": "In AI, latency is the enemy. If data can't reach the model fast enough, the AI stutters. This is where Sentilink, powered by Vorex, acts as the Insight Bridge.",
+      "speaker": "Alex, Sentivue PM"
+    },
+    {
+      "start": "01:46",
+      "end": "02:55",
+      "text": "While others use Vorex for hardware, we use it for throughput. We've tuned Vorex's low-level processing for massive data ingestion.",
+      "speaker": "Alex, Sentivue PM"
+    },
+    {
+      "start": "02:56",
+      "end": "04:10",
+      "text": "Look at the comparison: Standard API vs Sentilink. Sentilink is processing 500 million touchpoints 15 times faster. No bottlenecks.",
+      "speaker": "Alex, Sentivue PM"
+    },
+    {
+      "start": "04:11",
+      "end": "05:30",
+      "text": "This 15x increase in 'Time to First Insight' is critical for real-time business decisions. Sentilink is the bridge that lets AI think at the speed of business.",
+      "speaker": "Alex, Sentivue PM"
+    }
+  ]
+}

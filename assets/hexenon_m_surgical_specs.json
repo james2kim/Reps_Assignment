@@ -1,0 +1,148 @@
+[
+    {
+      "page": 1,
+      "text": "HEXALOOM MEDICAL DIVISION: TECHNICAL SPECIFICATION HM-04 Asset Name: Hexenon-M Surgical Threading Requirements Series: Neuro-Linker Precision. 1. Executive Summary. Hexenon-M (Medical Grade) is a specialized carbon nanotube weave optimized for high-fidelity neural bridging and microscopic surgical threading. Unlike industrial carbon weaves, Hexenon-M undergoes a proprietary surface functionalization process to ensure 100% biocompatibility with human neural tissue. 2. Dimensional Precision. The primary advantage of Hexenon-M is its diameter-to-strength ratio. Standard surgical sutures (e.g., 10-0 Prolene) have a diameter of ~20-29 microns. Hexenon-M 'Neuro-Threads' are manufactured at a standard diameter of 5.0 microns, allowing for integration directly into the fascicles of peripheral nerves without causing displacement trauma. Table 1: Dimensional Comparison - Hexenon-M vs. Standard Micro-Sutures. Suture Type, Diameter (μm), Tensile Strength (MPa), Biocompatibility, Conductivity. 10-0 Nylon, 25.0, 450, High, Non-conductive. 11-0 Ethilon, 15.0, 500, High, Non-conductive. Hexenon-M Alpha, 5.0, 12000, Ultra-High, 1.2 x 10^6 S/m. Hexenon-M Nano, 1.2, 15000, Ultra-High, 1.5 x 10^6 S/m.",
+      "sections": [
+        {
+          "id": "hm_sec_1_1",
+          "heading": "1. Executive Summary",
+          "content": "Hexenon-M is a medical-grade carbon nanotube weave optimized for neural bridging. It features a proprietary functionalization process to ensure full biocompatibility with neural tissue."
+        },
+        {
+          "id": "hm_sec_1_2",
+          "heading": "2. Dimensional Precision",
+          "content": "Hexenon-M threads have a standard diameter of 5.0 microns, significantly smaller than traditional 10-0 Prolene sutures, allowing for trauma-free integration into peripheral nerve fascicles."
+        }
+      ],
+      "tables": [
+        {
+          "id": "hm_tab_1_1",
+          "title": "Table 1: Dimensional Comparison - Hexenon-M vs. Standard Micro-Sutures",
+          "headers": [
+            "Suture Type",
+            "Diameter (μm)",
+            "Tensile Strength (MPa)",
+            "Biocompatibility",
+            "Conductivity"
+          ],
+          "rows": [
+            ["10-0 Nylon", "25.0", "450", "High", "Non-conductive"],
+            ["11-0 Ethilon", "15.0", "500", "High", "Non-conductive"],
+            ["Hexenon-M Alpha", "5.0", "12000", "Ultra-High", "1.2 x 10^6 S/m"],
+            ["Hexenon-M Nano", "1.2", "15000", "Ultra-High", "1.5 x 10^6 S/m"]
+          ],
+          "metadata": {
+            "source": "Hexaloom Medical Division"
+          }
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "3. Electrical Fidelity and Impedance. For neuro-linking applications, signal clarity is paramount. Hexenon-M exhibits a unique 'Quantum Tunneling' effect at the synapse junction, reducing signal noise by 40% compared to platinum-iridium electrodes. Table 2: Signal Impedance at 1kHz. Material, Impedance (kΩ), Signal-to-Noise Ratio, Flex-Life (Cycles). Platinum-Iridium, 150, 12:1, <10,000. Gold-Plated Copper, 120, 15:1, <5,000. Hexenon-M (Raw), 15, 45:1, >1,000,000. 4. Long-Term Tissue Integration. A major hurdle in neural implants is the Foreign Body Response (FBR). Standard implants trigger the formation of a glial scar that eventually insulates the electrode from the neuron. Hexenon-M's peptide coating prevents this response. Table 3: Glial Scarring Thickness Over Time. Duration, Platinum-Iridium (μm), Hexenon-M (μm), Signal Attenuation. 1 Month, 15, <1, -0.05 dB. 6 Months, 45, 1.2, -0.10 dB. 24 Months, 120, 1.5, -0.12 dB.",
+      "sections": [
+        {
+          "id": "hm_sec_2_1",
+          "heading": "3. Electrical Fidelity and Impedance",
+          "content": "Signal clarity is achieved through a Quantum Tunneling effect, which reduces signal noise by 40% compared to standard electrodes. The signal-to-noise ratio is 45:1."
+        },
+        {
+          "id": "hm_sec_2_2",
+          "heading": "4. Long-Term Tissue Integration",
+          "content": "Hexenon-M utilizes a peptide coating to mitigate the Foreign Body Response (FBR) and glial scarring, maintaining signal integrity over long durations (24+ months)."
+        }
+      ],
+      "tables": [
+        {
+          "id": "hm_tab_2_1",
+          "title": "Table 2: Signal Impedance at 1kHz",
+          "headers": [
+            "Material",
+            "Impedance (kΩ)",
+            "Signal-to-Noise Ratio",
+            "Flex-Life (Cycles)"
+          ],
+          "rows": [
+            ["Platinum-Iridium", "150", "12:1", "<10,000"],
+            ["Gold-Plated Copper", "120", "15:1", "<5,000"],
+            ["Hexenon-M (Raw)", "15", "45:1", ">1,000,000"]
+          ]
+        },
+        {
+          "id": "hm_tab_2_2",
+          "title": "Table 3: Glial Scarring Thickness Over Time",
+          "headers": [
+            "Duration",
+            "Platinum-Iridium (μm)",
+            "Hexenon-M (μm)",
+            "Signal Attenuation"
+          ],
+          "rows": [
+            ["1 Month", "15", "<1", "-0.05 dB"],
+            ["6 Months", "45", "1.2", "-0.10 dB"],
+            ["24 Months", "120", "1.5", "-0.12 dB"]
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "5. Clinical Recovery Benchmarks. In Phase II trials, Hexenon-M bridge grafts significantly reduced the time required for post-operative sensory feedback return. Table 4: Recovery Timeline (Average Days). Function Type, Standard Nerve Graft, Hexenon-M Bridge, Improvement. Pain/Temperature, 180 Days, 42 Days, 76.6%. Proprioception, 240 Days, 60 Days, 75.0%. Fine Motor Control, 365+ Days, 120 Days, 67.1%. 6. Sterilization and Regulatory. Hexenon-M is classified as a Class III Implantable Medical Device (ISO 10993). Table 5: Sterilization Limits. Agent/Process, Resistance, Max Temp, Repeatability. Steam Autoclave, Excellent, 142°C, 500+ Cycles. Ethylene Oxide, Excellent, 60°C, Unlimited. Gamma Radiation, Good, N/A, 1 Cycle.",
+      "sections": [
+        {
+          "id": "hm_sec_3_1",
+          "heading": "5. Clinical Recovery Benchmarks",
+          "content": "Phase II trials demonstrate massive improvements in recovery times. Pain and temperature sensation returns in 42 days (76.6% faster than standard grafts)."
+        },
+        {
+          "id": "hm_sec_3_2",
+          "heading": "6. Sterilization and Regulatory",
+          "content": "Classified as a Class III device under ISO 10993. It is resistant to steam autoclave (up to 500 cycles) and ethylene oxide sterilization."
+        }
+      ],
+      "tables": [
+        {
+          "id": "hm_tab_3_1",
+          "title": "Table 4: Recovery Timeline (Average Days)",
+          "headers": [
+            "Function Type",
+            "Standard Nerve Graft",
+            "Hexenon-M Bridge",
+            "Improvement"
+          ],
+          "rows": [
+            ["Pain/Temperature", "180 Days", "42 Days", "76.6%"],
+            ["Proprioception", "240 Days", "60 Days", "75.0%"],
+            ["Fine Motor Control", "365+ Days", "120 Days", "67.1%"]
+          ]
+        },
+        {
+          "id": "hm_tab_3_2",
+          "title": "Table 5: Sterilization Limits",
+          "headers": [
+            "Agent/Process",
+            "Resistance",
+            "Max Temp",
+            "Repeatability"
+          ],
+          "rows": [
+            ["Steam Autoclave", "Excellent", "142°C", "500+ Cycles"],
+            ["Ethylene Oxide", "Excellent", "60°C", "Unlimited"],
+            ["Gamma Radiation", "Good", "N/A", "1 Cycle"]
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "7. Surgical Workflow and Safety. Implementation requires the specialized 'Nanoworks Surgical Kit' to prevent static charge interference. Safety Note: Surgeons must use bipolar cautery at least 2cm away from the graft site. Hexenon-M is permanently conductive and can act as a thermal conduit if misused. CONFIDENTIALITY NOTICE: This document is for internal Hexaloom Nanoworks training only.",
+      "sections": [
+        {
+          "id": "hm_sec_4_1",
+          "heading": "7. Surgical Workflow and Safety",
+          "content": "Specialized kits are required to handle threads due to static sensitivity. Critical safety protocol requires bipolar cautery to be used at least 2cm away from the graft site to prevent thermal damage."
+        }
+      ],
+      "tables": []
+    }
+  ]

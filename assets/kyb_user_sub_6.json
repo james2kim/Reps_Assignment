@@ -1,0 +1,23 @@
+{
+  "full_transcript": "If you are running a massive grid, you need Vorex. K-Stream uses it to perform high-speed packet inspection that saves energy. By shedding overwhelming traffic before it hits the OS, we reduce your total cooling energy cost by over 30 percent. It's security that pays for your utility bill.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:15",
+      "text": "If you are running a massive grid, you need Vorex. K-Stream uses it for high-speed packet inspection.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:16",
+      "end": "00:30",
+      "text": "By shedding overwhelming traffic before it hits the OS, we reduce cooling energy costs by 30 percent.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:31",
+      "end": "00:45",
+      "text": "It's security that effectively pays for your utility bill by protecting your hardware efficiency.",
+      "speaker": "Sales Rep"
+    }
+  ]
+}

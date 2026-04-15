@@ -1,0 +1,23 @@
+{
+  "full_transcript": "Vorex is the core of K-Stream. By processing packets with millisecond latency, we ensure that your server fans don't have to ramp up for junk traffic. We keep your average rack temp at a steady 22 degrees even during a DDoS event. That is the Kyberon stability guarantee.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:12",
+      "text": "Vorex is the core of K-Stream. It processes packets with millisecond latency at the edge.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:13",
+      "end": "00:25",
+      "text": "This ensures that your server fans don't have to ramp up for junk traffic. We maintain thermal stability.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:26",
+      "end": "00:38",
+      "text": "Even during a DDoS, your racks stay at 22 degrees. That is the Kyberon stability guarantee.",
+      "speaker": "Sales Rep"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "full_transcript": "Hello, this is my pitch for Amproxin. Amproxin is our leading broad-spectrum antibiotic. It is highly reliable, has a fast onset of action, and is trusted in millions of households. Doctors should prefer it because it covers both Gram-positive and Gram-negative pathogens effectively.",
+    "segments": [
+        {
+            "start": "00:00",
+            "end": "00:08",
+            "text": "Hello, this is my pitch for Amproxin. Amproxin is our leading broad-spectrum antibiotic.",
+            "speaker": "Sales Rep"
+        },
+        {
+            "start": "00:09",
+            "end": "00:18",
+            "text": "It is highly reliable, has a fast onset of action, and is trusted in millions of households.",
+            "speaker": "Sales Rep"
+        },
+        {
+            "start": "00:19",
+            "end": "00:28",
+            "text": "Doctors should prefer it because it covers both Gram-positive and Gram-negative pathogens effectively.",
+            "speaker": "Sales Rep"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+id,username,display_name,role,segment,created_at,is_active,company_id
+a1b2-401,aaron-veldra,Aaron Montgomery,Sales Representative,North America,2021-04-10T09:00:00Z,TRUE,comp-veldra-001
+c3d4-551,abigail-veldra,Abigail Williams,Sales Representative,North America,2021-02-10T09:00:00Z,TRUE,comp-veldra-001
+e2f3-501,adam-veldra,Adam Scott,Sales Representative,North America,2021-05-12T09:00:00Z,TRUE,comp-veldra-001
+7a2b-101,alice-veldra,Alice Johnson,Sales Representative,North America,2021-01-15T09:00:00Z,TRUE,comp-veldra-001
+d7e8-526,amy-kyberon,Amy Farrah Fowler,Sales Representative,North America,2024-03-04T09:40:00Z,TRUE,comp-kyberon-003
+v4i7-508,anika-veldra,Anika Sharma,Sales Representative,Global Compliance,2023-06-12T13:10:00Z,TRUE,comp-veldra-001
+a3r7-517,arthur-aetheris,Arthur Dent,Sales Representative,Mental Wellness,2022-11-20T08:30:00Z,FALSE,comp-aetheris-002
+c9d0-577,arthur-kyberon,Arthur Dent,Sales Representative,APAC,2024-08-30T16:15:00Z,TRUE,comp-kyberon-003
+s0i4-534,arthur-sentivue,Arthur Curry,Sales Representative,Automation,2024-04-12T15:50:00Z,TRUE,comp-sentivue-004
+z6a7-426,arthur-veldra,Arthur Morgan,Sales Representative,North America,2021-10-25T08:00:00Z,TRUE,comp-veldra-001
+d4e5-552,barney-veldra,Barney Stinson,Sales Representative,Europe,2021-06-15T10:30:00Z,TRUE,comp-veldra-001
+e8f9-527,barry-kyberon,Barry Allen,Sales Representative,APAC,2024-07-22T16:15:00Z,TRUE,comp-kyberon-003
+s9h3-533,barry-sentivue,Barry Allen,Sales Representative,Predictive Analytics,2023-10-05T11:15:00Z,TRUE,comp-sentivue-004
+b2c3-402,beatrice-aetheris,Beatrice Thorne,Sales Representative,Europe,2022-01-15T11:30:00Z,TRUE,comp-aetheris-002
+d0e1-578,beatrix-kyberon,Beatrix Kiddo,Sales Representative,EMEA,2025-02-14T09:00:00Z,TRUE,comp-kyberon-003
+f3g4-502,belinda-veldra,Belinda Carlisle,Sales Representative,APAC,2021-08-20T10:30:00Z,TRUE,comp-veldra-001
+a0o4-514,bella-aetheris,Bella Swan,Sales Representative,Premium Care,2024-03-15T15:25:00Z,TRUE,comp-aetheris-002
+h1t5-545,ben-hexaloom,Ben Grimm,Sales Representative,Defense Shielding,2025-06-30T10:00:00Z,TRUE,comp-hexaloom-005
+8c3d-102,bob-veldra,Bob Smith,Sales Representative,APAC,2021-03-22T10:30:00Z,TRUE,comp-veldra-001
+d9e0-305,bruce-hexaloom,Bruce Banner,Sales Representative,Medical Scaffolding,2025-08-12T10:15:00Z,TRUE,comp-hexaloom-005
+k4c8-528,bucky-kyberon,Bucky Barnes,Sales Representative,Physical Infrastructure,2023-04-22T08:45:00Z,FALSE,comp-kyberon-003
+c3d4-403,caleb-kyberon,Caleb Vance,Sales Representative,Data Center Infrastructure,2023-05-20T14:45:00Z,TRUE,comp-kyberon-003
+k2a6-526,carol-kyberon,Carol Danvers,Sales Representative,EMEA,2021-10-18T15:00:00Z,TRUE,comp-kyberon-003
+g4h5-503,casper-veldra,Casper Van Dien,Sales Representative,Europe,2022-02-14T14:15:00Z,TRUE,comp-veldra-001
+e1f2-579,cedric-kyberon,Cedric Diggory,Sales Representative,Global Infrastructure,2025-07-19T16:40:00Z,TRUE,comp-kyberon-003
+9e4f-103,charlie-aetheris,Charlie Brown,Sales Representative,Europe,2022-05-10T14:15:00Z,TRUE,comp-aetheris-002
+f9g0-528,claire-kyberon,Claire Dunphy,Sales Representative,EMEA,2025-01-14T09:00:00Z,TRUE,comp-kyberon-003
+v8c1-502,claire-veldra,Claire Beaumont,Sales Representative,Logistics,2022-08-14T11:15:00Z,TRUE,comp-veldra-001
+x3y4-302,clara-aetheris,Clara Oswald,Sales Representative,Brain Function,2022-06-15T09:30:00Z,TRUE,comp-aetheris-002
+b8c9-428,clark-kyberon,Clark Kent,Sales Representative,North America,2023-02-14T09:00:00Z,TRUE,comp-kyberon-003
+s7f1-531,clark-sentivue,Clark Kent,Sales Representative,Generative AI,2021-02-14T09:00:00Z,TRUE,comp-sentivue-004
+e5f6-553,clive-veldra,Clive Owen,Sales Representative,APAC,2022-03-22T14:15:00Z,TRUE,comp-veldra-001
+c9d0-429,daisy-sentivue,Daisy Johnson,Sales Representative,EMEA,2024-11-11T16:40:00Z,TRUE,comp-sentivue-004
+h5x9-549,danny-hexaloom,Danny Rand,Sales Representative,Global Synthesis,2024-08-15T16:50:00Z,FALSE,comp-hexaloom-005
+f2g3-580,daphne-kyberon,Daphne Blake,Sales Representative,North America,2025-11-11T11:15:00Z,TRUE,comp-kyberon-003
+0a5g-104,david-kyberon,David Miller,Sales Representative,North America,2023-07-19T08:45:00Z,TRUE,comp-kyberon-003
+f6g7-554,debra-veldra,Debra Morgan,Sales Representative,LATAM,2022-08-30T08:45:00Z,TRUE,comp-veldra-001
+g0h1-529,dexter-kyberon,Dexter Morgan,Sales Representative,Global Infrastructure,2025-06-11T16:40:00Z,TRUE,comp-kyberon-003
+s8g2-532,diana-sentivue,Diana Prince,Sales Representative,Trend Prediction,2022-06-10T14:30:00Z,TRUE,comp-sentivue-004
+h5i6-504,dorothy-veldra,Dorothy Gale,Sales Representative,LATAM,2022-06-30T08:45:00Z,TRUE,comp-veldra-001
+e5f6-405,edward-hexaloom,Edward Norton,Sales Representative,Industrial Robotics,2025-02-01T16:00:00Z,TRUE,comp-hexaloom-005
+h1i2-530,elaine-kyberon,Elaine Benes,Sales Representative,North America,2025-10-06T11:15:00Z,TRUE,comp-kyberon-003
+e5f6-203,elena-kyberon,Elena Rodriguez,Sales Representative,Data Centers,2022-01-10T09:00:00Z,TRUE,comp-kyberon-003
+g3h4-581,elias-sentivue,Elias Thorne,Sales Representative,Predictive Analytics,2021-08-15T15:30:00Z,TRUE,comp-sentivue-004
+v0e3-504,elise-veldra,Elise Moreau,Sales Representative,North America,2024-02-10T10:30:00Z,TRUE,comp-veldra-001
+a4s8-518,ellen-aetheris,Ellen Ripley,Sales Representative,Europe,2023-05-04T12:15:00Z,TRUE,comp-aetheris-002
+i6j7-505,elliot-veldra,Elliot Alderson,Sales Representative,North America,2023-01-10T16:20:00Z,TRUE,comp-veldra-001
+g7h8-555,ernie-veldra,Ernie Hudson,Sales Representative,North America,2023-01-12T16:20:00Z,TRUE,comp-veldra-001
+s9t0-210,ethan-hexaloom,Ethan Huntley,Sales Representative,Robotic Sinew,2025-11-15T12:00:00Z,TRUE,comp-hexaloom-005
+1b6h-105,eva-sentivue,Eva Garcia,Sales Representative,Predictive Analytics,2024-11-02T16:20:00Z,TRUE,comp-sentivue-004
+j7k8-506,faith-veldra,Faith Lehane,Sales Representative,EMEA,2023-04-22T11:00:00Z,TRUE,comp-veldra-001
+h8i9-556,felicia-veldra,Felicia Day,Sales Representative,EMEA,2023-05-20T11:00:00Z,TRUE,comp-veldra-001
+e1f2-431,felicity-veldra,Felicity Smoak,Sales Representative,Europe,2021-11-19T15:30:00Z,TRUE,comp-veldra-001
+v2g5-506,fiona-veldra,Fiona Gallagher,Sales Representative,Pain Relief,2021-12-01T15:20:00Z,TRUE,comp-veldra-001
+h4i5-582,flora-sentivue,Flora Rein,Sales Representative,Generative AI,2022-03-12T10:00:00Z,TRUE,comp-sentivue-004
+2c7i-106,frank-hexaloom,Frank White,Sales Representative,Industrial Robotics,2025-12-01T11:00:00Z,TRUE,comp-hexaloom-005
+i2j3-531,fred-sentivue,Fred Flintstone,Sales Representative,Predictive Analytics,2021-07-19T15:30:00Z,TRUE,comp-sentivue-004
+v7b9-501,gabriel-veldra,Gabriel Ross,Sales Representative,Antibiotics Division,2021-04-05T09:20:00Z,TRUE,comp-veldra-001
+k6e0-530,gamora-kyberon,Gamora Zen,Sales Representative,Virtualization,2025-12-20T10:00:00Z,TRUE,comp-kyberon-003
+i9j0-557,gary-veldra,Gary Oldman,Sales Representative,APAC,2024-02-14T09:15:00Z,TRUE,comp-veldra-001
+g7h8-407,george-aetheris,George Costanza,Sales Representative,Mental Wellness,2022-06-05T13:40:00Z,TRUE,comp-aetheris-002
+f2g3-432,gideon-aetheris,Gideon Prewett,Sales Representative,APAC,2022-04-22T10:00:00Z,TRUE,comp-aetheris-002
+i5j6-583,gideon-sentivue,Gideon Jura,Sales Representative,User Experience,2022-10-05T14:00:00Z,TRUE,comp-sentivue-004
+j3k4-532,gina-sentivue,Gina Linetti,Sales Representative,Generative AI,2022-02-22T10:00:00Z,TRUE,comp-sentivue-004
+k8l9-507,glenn-veldra,Glenn Quagmire,Sales Representative,APAC,2024-07-07T09:15:00Z,TRUE,comp-veldra-001
+3d8j-107,grace-veldra,Grace Lee,Sales Representative,North America,2021-06-12T09:15:00Z,TRUE,comp-veldra-001
+h7p1-541,hal-hexaloom,Hal Jordan,Sales Representative,Hexenon-X,2021-04-22T09:15:00Z,TRUE,comp-hexaloom-005
+h8i9-408,hannah-kyberon,Hannah Abbott,Sales Representative,EMEA,2023-11-12T09:20:00Z,TRUE,comp-kyberon-003
+g3h4-433,harvey-kyberon,Harvey Dent,Sales Representative,Global Infrastructure,2023-08-08T14:00:00Z,TRUE,comp-kyberon-003
+s3l7-537,harvey-sentivue,Harvey Dent,Sales Representative,Ethical AI,2022-08-05T08:15:00Z,TRUE,comp-sentivue-004
+v9d2-503,hassan-veldra,Hassan Al-Fayed,Sales Representative,Quality Control,2023-11-20T14:45:00Z,TRUE,comp-veldra-001
+j6k7-584,hazel-sentivue,Hazel Grace,Sales Representative,Predictive Analytics,2023-04-18T09:30:00Z,TRUE,comp-sentivue-004
+4e9k-108,henry-aetheris,Henry Wilson,Sales Representative,Mental Wellness,2022-08-25T13:40:00Z,TRUE,comp-aetheris-002
+l9m0-508,holly-veldra,Holly Golightly,Sales Representative,North America,2024-10-31T13:40:00Z,TRUE,comp-veldra-001
+j0k1-558,hope-veldra,Hope Solo,Sales Representative,North America,2024-09-01T13:40:00Z,TRUE,comp-veldra-001
+a1p5-515,hugo-aetheris,Hugo Strange,Sales Representative,Neuro-chemistry,2025-07-02T10:00:00Z,TRUE,comp-aetheris-002
+k4l5-533,hugo-sentivue,Hugo Strange,Sales Representative,User Experience,2022-09-08T14:00:00Z,TRUE,comp-sentivue-004
+i9j0-409,ian-sentivue,Ian Wright,Sales Representative,Generative AI,2024-03-30T15:55:00Z,TRUE,comp-sentivue-004
+l5m6-534,iris-sentivue,Iris West-Allen,Sales Representative,Predictive Analytics,2023-03-28T09:30:00Z,TRUE,comp-sentivue-004
+k7l8-585,isaac-sentivue,Isaac Clarke,Sales Representative,Generative AI,2023-12-12T12:00:00Z,TRUE,comp-sentivue-004
+m0n1-509,isaac-veldra,Isaac Newton,Sales Representative,Europe,2025-03-15T10:00:00Z,TRUE,comp-veldra-001
+5f0l-109,isabella-kyberon,Isabella Davis,Sales Representative,EMEA,2023-10-30T10:00:00Z,TRUE,comp-kyberon-003
+k1l2-559,ivan-veldra,Ivan Drago,Sales Representative,Europe,2025-04-10T10:00:00Z,TRUE,comp-veldra-001
+a5t9-519,jack-aetheris,Jack Torrance,Sales Representative,Cognitive Metrics,2024-09-22T16:50:00Z,TRUE,comp-aetheris-002
+6g1m-110,jack-sentivue,Jack Martinez,Sales Representative,Generative AI,2025-02-14T15:55:00Z,TRUE,comp-sentivue-004
+l2m3-560,jade-veldra,Jade West,Sales Representative,LATAM,2025-12-15T15:55:00Z,TRUE,comp-veldra-001
+k1l2-206,james-veldra,James O'Connor,Sales Representative,Antibiotics Division,2021-11-05T10:10:00Z,TRUE,comp-veldra-001
+n1o2-510,jenny-veldra,Jenny Forrest,Sales Representative,LATAM,2025-11-12T15:55:00Z,TRUE,comp-veldra-001
+m6n7-535,jerry-sentivue,Jerry Seinfeld,Sales Representative,Generative AI,2023-11-10T12:00:00Z,TRUE,comp-sentivue-004
+h3v7-547,jessica-hexaloom,Jessica Jones,Sales Representative,Super-Materials,2022-12-01T08:45:00Z,TRUE,comp-hexaloom-005
+l8m9-586,jessica-sentivue,Jessica Jones,Sales Representative,EMEA,2024-05-20T16:20:00Z,TRUE,comp-sentivue-004
+s5n9-539,john-sentivue,John Constantine,Sales Representative,Predictive Analytics,2024-07-22T16:10:00Z,FALSE,comp-sentivue-004
+h0s4-544,johnny-hexaloom,Johnny Storm,Sales Representative,Robotic Sinew,2024-01-25T15:20:00Z,TRUE,comp-hexaloom-005
+i5j6-435,jonah-hexaloom,Jonah Hex,Sales Representative,Medical Nanotech,2025-01-10T12:00:00Z,TRUE,comp-hexaloom-005
+j0k1-410,julia-hexaloom,Julia Roberts,Sales Representative,Medical Nanotech,2025-07-22T12:00:00Z,TRUE,comp-hexaloom-005
+a7l1-511,julian-aetheris,Julian Vance,Sales Representative,Brain Function,2021-01-22T09:40:00Z,TRUE,comp-aetheris-002
+m9n0-587,kai-sentivue,Kai Lung,Sales Representative,APAC,2024-09-15T11:11:00Z,TRUE,comp-sentivue-004
+s6o0-540,kara-sentivue,Kara Zor-El,Sales Representative,Futuristic Software,2025-12-15T11:30:00Z,TRUE,comp-sentivue-004
+o2p3-511,karl-aetheris,Karl Marx,Sales Representative,Mental Wellness,2021-02-14T09:00:00Z,TRUE,comp-aetheris-002
+n7o8-536,kate-sentivue,Kate Pearson,Sales Representative,EMEA,2024-04-03T16:20:00Z,TRUE,comp-sentivue-004
+j6k7-436,katelyn-veldra,Katelyn Stark,Sales Representative,LATAM,2021-03-03T16:20:00Z,TRUE,comp-veldra-001
+v3h6-507,kenji-veldra,Kenji Sato,Sales Representative,Anti-Inflammatories,2022-03-25T08:45:00Z,FALSE,comp-veldra-001
+k1l2-411,kevin-veldra,Kevin Malone,Sales Representative,LATAM,2021-12-01T10:10:00Z,TRUE,comp-veldra-001
+m3n4-561,kyle-aetheris,Kyle Broflovski,Sales Representative,Mental Wellness,2021-03-12T09:00:00Z,TRUE,comp-aetheris-002
+n4o5-562,lana-aetheris,Lana Kane,Sales Representative,Europe,2021-10-20T11:30:00Z,TRUE,comp-aetheris-002
+l2m3-412,laura-aetheris,Laura Palmer,Sales Representative,North America,2022-10-14T14:25:00Z,TRUE,comp-aetheris-002
+k7l8-437,leo-aetheris,Leo Fitz,Sales Representative,Europe,2022-12-12T11:11:00Z,TRUE,comp-aetheris-002
+v5j8-509,leo-veldra,Leo Sterling,Sales Representative,Consumer Health,2024-10-30T11:55:00Z,TRUE,comp-veldra-001
+g7h8-204,liam-sentivue,Liam Chen,Sales Representative,Predictive Analytics,2023-03-12T11:45:00Z,TRUE,comp-sentivue-004
+k7v1-521,logan-kyberon,Logan Howlett,Sales Representative,Infrastructure,2021-03-05T08:00:00Z,TRUE,comp-kyberon-003
+o8p9-537,louis-sentivue,Louis Litt,Sales Representative,APAC,2024-08-12T11:11:00Z,TRUE,comp-sentivue-004
+p3q4-512,lucy-aetheris,Lucy Ricardo,Sales Representative,Europe,2021-09-15T11:30:00Z,TRUE,comp-aetheris-002
+h4w8-548,luke-hexaloom,Luke Cage,Sales Representative,Defense,2023-02-28T12:00:00Z,TRUE,comp-hexaloom-005
+n0o1-588,luna-sentivue,Luna Lovegood,Sales Representative,User Experience,2025-02-14T09:45:00Z,TRUE,comp-sentivue-004
+c3d4-202,marcus-aetheris,Marcus Thorne,Sales Representative,Mental Wellness,2021-05-20T14:15:00Z,TRUE,comp-aetheris-002
+o1p2-589,mateo-sentivue,Mateo Solis,Sales Representative,Predictive Analytics,2025-06-20T14:10:00Z,TRUE,comp-sentivue-004
+h2u6-546,matt-hexaloom,Matt Murdock,Sales Representative,Industrial Robotics,2021-08-14T13:30:00Z,TRUE,comp-hexaloom-005
+q7r8-209,maya-sentivue,Maya Gupta,Sales Representative,Customer Automation,2025-04-22T15:30:00Z,TRUE,comp-sentivue-004
+l8m9-438,mia-kyberon,Mia Wallace,Sales Representative,APAC,2023-07-07T09:45:00Z,TRUE,comp-kyberon-003
+m3n4-413,miles-kyberon,Miles Morales,Sales Representative,Global Infrastructure,2023-04-05T08:50:00Z,TRUE,comp-kyberon-003
+o5p6-563,milo-aetheris,Milo Ventimiglia,Sales Representative,Sleep Research,2022-04-15T14:45:00Z,TRUE,comp-aetheris-002
+a2q6-516,mina-aetheris,Mina Harker,Sales Representative,Peace of Mind,2021-09-12T13:45:00Z,TRUE,comp-aetheris-002
+q4r5-513,moby-aetheris,Moby Dick,Sales Representative,Sleep Research,2022-03-20T14:45:00Z,TRUE,comp-aetheris-002
+p9q0-538,monica-sentivue,Monica Geller,Sales Representative,User Experience,2025-01-07T09:45:00Z,TRUE,comp-sentivue-004
+n4o5-414,nadia-sentivue,Nadia Vulvokov,Sales Representative,User Experience,2024-01-20T11:30:00Z,TRUE,comp-sentivue-004
+r5s6-514,nancy-aetheris,Nancy Drew,Sales Representative,Mental Wellness,2022-12-12T10:15:00Z,TRUE,comp-aetheris-002
+k8w2-522,natasha-kyberon,Natasha Romanoff,Sales Representative,Virtualization,2022-07-15T10:45:00Z,TRUE,comp-kyberon-003
+v1w2-301,nathan-veldra,Nathan Drake,Sales Representative,Pain Relief,2021-04-12T10:00:00Z,TRUE,comp-veldra-001
+q0r1-539,ned-sentivue,Ned Stark,Sales Representative,Predictive Analytics,2025-05-18T14:10:00Z,TRUE,comp-sentivue-004
+d4c3-302,nina-aetheris,Nina Simone,Sales Representative,North America,2022-04-05T09:30:00Z,TRUE,comp-aetheris-002
+m9n0-439,noah-sentivue,Noah Bennett,Sales Representative,EMEA,2024-06-18T14:10:00Z,TRUE,comp-sentivue-004
+p6q7-564,nora-aetheris,Nora West-Allen,Sales Representative,Mental Wellness,2022-11-11T10:15:00Z,TRUE,comp-aetheris-002
+p2q3-590,nova-sentivue,Nova Artino,Sales Representative,Generative AI,2025-11-11T10:00:00Z,TRUE,comp-sentivue-004
+m3n4-207,olivia-aetheris,Olivia Pratt,Sales Representative,Premium Care,2022-09-18T13:00:00Z,FALSE,comp-aetheris-002
+n0o1-440,olivia-hexaloom,Olivia Dunham,Sales Representative,Consumer Tech,2025-03-03T10:00:00Z,TRUE,comp-hexaloom-005
+a9n3-513,oscar-aetheris,Oscar Wilde,Sales Representative,Stress Management,2023-08-19T11:00:00Z,TRUE,comp-aetheris-002
+q3r4-591,oscar-hexaloom,Oscar Martinez,Sales Representative,Industrial Robotics,2021-04-12T08:00:00Z,TRUE,comp-hexaloom-005
+b6a5-303,oscar-kyberon,Oscar Isaac,Sales Representative,APAC,2023-01-20T14:45:00Z,TRUE,comp-kyberon-003
+s6t7-515,otis-aetheris,Otis Redding,Sales Representative,North America,2023-05-01T16:00:00Z,TRUE,comp-aetheris-002
+q7r8-565,owen-aetheris,Owen Hunt,Sales Representative,North America,2023-06-05T16:00:00Z,TRUE,comp-aetheris-002
+o5p6-415,owen-hexaloom,Owen Wilson,Sales Representative,Defense Systems,2025-09-15T13:45:00Z,TRUE,comp-hexaloom-005
+p6q7-416,pam-veldra,Pam Beesly,Sales Representative,North America,2021-07-04T09:40:00Z,TRUE,comp-veldra-001
+s4m8-538,pamela-sentivue,Pamela Isley,Sales Representative,Environmental AI,2023-12-18T12:00:00Z,TRUE,comp-sentivue-004
+t7u8-516,peggy-aetheris,Peggy Olson,Sales Representative,EMEA,2023-08-18T08:30:00Z,TRUE,comp-aetheris-002
+r4s5-592,penelope-hexaloom,Penelope Cruz,Sales Representative,Consumer Tech,2021-11-11T15:55:00Z,TRUE,comp-hexaloom-005
+z5a6-303,pete-kyberon,Peter Parker,Sales Representative,Virtualization,2023-01-20T11:45:00Z,TRUE,comp-kyberon-003
+k5d9-529,peter-kyberon,Peter Quill,Sales Representative,Data Routing,2024-11-15T16:25:00Z,TRUE,comp-kyberon-003
+o1p2-441,peter-veldra,Peter Parker,Sales Representative,North America,2021-02-02T08:00:00Z,TRUE,comp-veldra-001
+r1s2-540,phoebe-sentivue,Phoebe Buffay,Sales Representative,Generative AI,2025-10-03T10:00:00Z,TRUE,comp-sentivue-004
+r8s9-566,piper-aetheris,Piper Halliwell,Sales Representative,EMEA,2023-09-30T08:30:00Z,TRUE,comp-aetheris-002
+h8g7-304,priya-sentivue,Priya Sharma,Sales Representative,EMEA,2024-09-15T11:10:00Z,TRUE,comp-sentivue-004
+q7r8-417,quentin-aetheris,Quentin Coldwater,Sales Representative,EMEA,2022-03-22T16:15:00Z,TRUE,comp-aetheris-002
+s9t0-567,quinn-aetheris,Quinn Perkins,Sales Representative,APAC,2024-03-12T13:40:00Z,TRUE,comp-aetheris-002
+s2t3-541,quinn-hexaloom,Quinn Morgendorffer,Sales Representative,Industrial Robotics,2021-03-02T08:00:00Z,TRUE,comp-hexaloom-005
+s5t6-593,quinton-hexaloom,Quinton Jackson,Sales Representative,Defense Systems,2022-08-15T13:30:00Z,TRUE,comp-hexaloom-005
+t3u4-542,ralph-hexaloom,Ralph Wiggum,Sales Representative,Consumer Tech,2021-10-05T15:55:00Z,TRUE,comp-hexaloom-005
+h8q2-542,reed-hexaloom,Reed Richards,Sales Representative,Molecular Manufacturing,2022-05-18T14:40:00Z,TRUE,comp-hexaloom-005
+t0u1-568,riley-aetheris,Riley Blue,Sales Representative,Sleep Research,2024-07-19T09:20:00Z,TRUE,comp-aetheris-002
+r8s9-418,riley-kyberon,Riley Andersen,Sales Representative,LATAM,2023-09-10T10:00:00Z,TRUE,comp-kyberon-003
+p2q3-442,rose-aetheris,Rose Tyler,Sales Representative,Europe,2022-05-05T15:55:00Z,TRUE,comp-aetheris-002
+u8v9-517,ross-aetheris,Ross Geller,Sales Representative,APAC,2024-02-05T13:40:00Z,TRUE,comp-aetheris-002
+t6u7-594,ruby-hexaloom,Ruby Rose,Sales Representative,Medical Nanotech,2023-06-12T09:00:00Z,TRUE,comp-hexaloom-005
+k3b7-527,sam-kyberon,Sam Wilson,Sales Representative,North America,2022-12-05T13:10:00Z,TRUE,comp-kyberon-003
+r2q1-306,sam-veldra,Samuel L. Jackson,Sales Representative,LATAM,2021-12-10T16:00:00Z,TRUE,comp-veldra-001
+a1b2-201,sarah-veldra,Sarah Jenkins,Sales Representative,Pharmaceuticals,2021-02-14T08:30:00Z,TRUE,comp-veldra-001
+q3r4-443,scott-kyberon,Scott Lang,Sales Representative,Global Infrastructure,2023-12-12T13:30:00Z,TRUE,comp-kyberon-003
+s2k6-536,selina-sentivue,Selina Kyle,Sales Representative,Minimalist UI,2021-11-20T13:40:00Z,TRUE,comp-sentivue-004
+u1v2-569,seth-aetheris,Seth Cohen,Sales Representative,North America,2025-02-14T15:55:00Z,TRUE,comp-aetheris-002
+u7v8-595,silas-hexaloom,Silas Marner,Sales Representative,Industrial Robotics,2023-12-15T16:20:00Z,TRUE,comp-hexaloom-005
+v1f4-505,simon-veldra,Simon Kalu,Sales Representative,EMEA,2025-05-18T09:00:00Z,TRUE,comp-veldra-001
+u4v5-543,skyler-hexaloom,Skyler White,Sales Representative,Defense Systems,2022-07-12T13:30:00Z,TRUE,comp-hexaloom-005
+i9j0-205,sophia-hexaloom,Sophia Vance,Sales Representative,Nanotech Defense,2024-06-30T16:20:00Z,TRUE,comp-hexaloom-005
+a8m2-512,sophie-aetheris,Sophie Martin,Sales Representative,Sleep Quality,2022-04-10T14:30:00Z,TRUE,comp-aetheris-002
+v9w0-518,stella-aetheris,Stella Kowalski,Sales Representative,Sleep Research,2024-06-12T09:20:00Z,TRUE,comp-aetheris-002
+k9x3-523,steve-kyberon,Steve Rogers,Sales Representative,Server Management,2023-11-12T14:30:00Z,TRUE,comp-kyberon-003
+s9t0-419,steven-sentivue,Steven Strange,Sales Representative,Predictive Analytics,2024-12-25T14:00:00Z,TRUE,comp-sentivue-004
+h9r3-543,sue-hexaloom,Sue Storm,Sales Representative,Medical Applications,2023-09-10T11:00:00Z,TRUE,comp-hexaloom-005
+t4s3-307,tara-aetheris,Tara Knowles,Sales Representative,APAC,2022-11-30T10:45:00Z,TRUE,comp-aetheris-002
+r4s5-444,tasha-sentivue,Tasha Yar,Sales Representative,User Experience,2024-04-04T09:00:00Z,TRUE,comp-sentivue-004
+t0u1-420,tessa-hexaloom,Tessa Thompson,Sales Representative,Consumer Tech,2025-04-18T11:20:00Z,TRUE,comp-hexaloom-005
+v8w9-596,thea-hexaloom,Thea Queen,Sales Representative,Consumer Tech,2024-03-05T12:00:00Z,TRUE,comp-hexaloom-005
+k1z5-525,thor-kyberon,Thor Odinson,Sales Representative,Hardware Monitoring,2025-08-01T11:20:00Z,TRUE,comp-kyberon-003
+v2w3-570,tina-aetheris,Tina Belcher,Sales Representative,Europe,2025-10-10T12:00:00Z,TRUE,comp-aetheris-002
+w0x1-519,toby-aetheris,Toby Flenderson,Sales Representative,North America,2025-01-30T15:55:00Z,TRUE,comp-aetheris-002
+b7c8-304,tony-sentivue,Tony Stark,Sales Representative,Predictive Analytics,2024-05-30T14:00:00Z,TRUE,comp-sentivue-004
+v5w6-544,tyrion-hexaloom,Tyrion Lannister,Sales Representative,Medical Nanotech,2023-05-04T09:00:00Z,TRUE,comp-hexaloom-005
+s5t6-445,ulysses-hexaloom,Ulysses Klaue,Sales Representative,Medical Nanotech,2025-08-08T16:20:00Z,TRUE,comp-hexaloom-005
+w3x4-571,ulysses-kyberon,Ulysses S. Grant,Sales Representative,Global Infrastructure,2021-07-12T10:10:00Z,TRUE,comp-kyberon-003
+w6x7-545,uma-hexaloom,Uma Thurman,Sales Representative,Industrial Robotics,2023-11-08T16:20:00Z,TRUE,comp-hexaloom-005
+v6u5-308,umar-kyberon,Umar Khan,Sales Representative,Global Infrastructure,2024-02-14T08:00:00Z,TRUE,comp-kyberon-003
+w9x0-597,uriel-hexaloom,Uriel Ventris,Sales Representative,Defense Systems,2024-10-14T09:00:00Z,TRUE,comp-hexaloom-005
+x1y2-520,ursula-aetheris,Ursula Buffay,Sales Representative,Europe,2025-09-22T12:00:00Z,TRUE,comp-aetheris-002
+x0y1-598,valerie-hexaloom,Valerie Frizzle,Sales Representative,Medical Nanotech,2025-02-22T15:30:00Z,TRUE,comp-hexaloom-005
+x4y5-572,vera-kyberon,Vera Farmiga,Sales Representative,EMEA,2021-12-05T14:25:00Z,TRUE,comp-kyberon-003
+x7y8-546,veronica-hexaloom,Veronica Mars,Sales Representative,Consumer Tech,2024-02-01T12:00:00Z,TRUE,comp-hexaloom-005
+s1j5-535,victor-sentivue,Victor Stone,Sales Representative,Marketing Intelligence,2025-09-30T10:00:00Z,TRUE,comp-sentivue-004
+u1v2-421,victor-veldra,Victor Fries,Sales Representative,APAC,2021-05-30T09:10:00Z,TRUE,comp-veldra-001
+o5p6-208,viktor-kyberon,Viktor Volkov,Sales Representative,EMEA Infrastructure,2023-12-01T08:55:00Z,TRUE,comp-kyberon-003
+y2z3-521,vince-kyberon,Vince Vega,Sales Representative,Global Infrastructure,2021-06-01T10:10:00Z,TRUE,comp-kyberon-003
+t6u7-446,violet-veldra,Violet Baudelaire,Sales Representative,APAC,2021-01-01T12:00:00Z,TRUE,comp-veldra-001
+z3a4-522,walter-kyberon,Walter White,Sales Representative,EMEA,2021-11-14T14:25:00Z,TRUE,comp-kyberon-003
+z0y9-310,wanda-hexaloom,Wanda Maximoff,Sales Representative,Consumer Tech,2025-11-20T09:00:00Z,TRUE,comp-hexaloom-005
+k0y4-524,wanda-kyberon,Wanda Maximoff,Sales Representative,Virtual Architecture,2024-05-20T09:15:00Z,TRUE,comp-kyberon-003
+a6u0-520,wendy-aetheris,Wendy Darling,Sales Representative,North America,2025-12-10T11:00:00Z,TRUE,comp-aetheris-002
+u7v8-447,will-aetheris,Will Graham,Sales Representative,EMEA,2022-11-11T09:00:00Z,TRUE,comp-aetheris-002
+y8z9-547,winston-hexaloom,Winston Bishop,Sales Representative,Defense Systems,2024-09-11T09:00:00Z,TRUE,comp-hexaloom-005
+y5z6-573,wyatt-kyberon,Wyatt Earp,Sales Representative,Data Center Infrastructure,2022-05-15T08:50:00Z,TRUE,comp-kyberon-003
+a4b5-523,xander-kyberon,Xander Harris,Sales Representative,Data Center Infrastructure,2022-04-05T08:50:00Z,TRUE,comp-kyberon-003
+z6a7-574,xandra-kyberon,Xandra Velasquez,Sales Representative,Global Infrastructure,2023-02-28T11:30:00Z,TRUE,comp-kyberon-003
+z2a3-600,xara-hexaloom,Xara Nightshade,Sales Representative,Consumer Tech,2025-11-30T08:00:00Z,TRUE,comp-hexaloom-005
+w3x4-423,xavier-kyberon,Xavier Woods,Sales Representative,EMEA,2023-06-14T12:00:00Z,TRUE,comp-kyberon-003
+z9a0-548,xena-hexaloom,Xena Warrior,Sales Representative,Medical Nanotech,2025-01-10T15:30:00Z,TRUE,comp-hexaloom-005
+v8w9-448,xenia-kyberon,Xenia Onatopp,Sales Representative,Global Infrastructure,2023-10-10T15:30:00Z,TRUE,comp-kyberon-003
+x4y5-424,yara-sentivue,Yara Greyjoy,Sales Representative,User Experience,2024-05-05T10:45:00Z,TRUE,comp-sentivue-004
+v6k9-510,yara-veldra,Yara Haddad,Sales Representative,APAC,2025-12-05T16:00:00Z,TRUE,comp-veldra-001
+a0b1-549,yoda-hexaloom,Yoda Green,Sales Representative,Industrial Robotics,2025-06-07T11:11:00Z,TRUE,comp-hexaloom-005
+b5c6-524,yoda-kyberon,Yoda Master,Sales Representative,Global Infrastructure,2023-01-20T11:30:00Z,TRUE,comp-kyberon-003
+a7b8-575,yolanda-kyberon,Yolanda Diaz,Sales Representative,LATAM,2023-10-15T13:45:00Z,TRUE,comp-kyberon-003
+w9x0-449,yusuf-sentivue,Yusuf Pathan,Sales Representative,Generative AI,2024-07-07T11:11:00Z,TRUE,comp-sentivue-004
+c6d7-525,zack-kyberon,Zack Morris,Sales Representative,LATAM,2023-09-15T13:45:00Z,TRUE,comp-kyberon-003
+y5z6-425,zane-hexaloom,Zane Flynt,Sales Representative,Industrial Robotics,2025-10-10T14:30:00Z,TRUE,comp-hexaloom-005
+b8c9-576,zane-kyberon,Zane Grey,Sales Representative,North America,2024-04-12T09:40:00Z,TRUE,comp-kyberon-003
+x0y1-450,zelda-hexaloom,Zelda Spellman,Sales Representative,Consumer Tech,2025-02-28T08:00:00Z,TRUE,comp-hexaloom-005
+b1c2-550,zora-hexaloom,Zora Neale,Sales Representative,Consumer Tech,2025-10-28T08:00:00Z,TRUE,comp-hexaloom-005

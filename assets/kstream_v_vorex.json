@@ -1,0 +1,35 @@
+{
+  "full_transcript": "Welcome to the K-Stream technical demo. Today we are looking at K-Stream, our proprietary traffic shield powered by the Vorex engine. When we talk about infrastructure, we talk about physical limits. Most people think of traffic as just bytes, but for Kyberon, traffic is heat and electricity. Every request to a server generates physical stress on the silicon. In this demo, you'll see a simulated DDoS attack hitting a standard server rack. Notice the temperature spiking in the top right. Without K-Stream, that rack would reach a critical 90 degrees Celsius in under ten seconds, triggering a hard shutdown. Now, we activate the Vorex-powered K-Stream. Vorex acts as a low-level traffic filter, identifying malicious patterns at the firmware layer before they even hit the OS. By shedding the bad traffic at the gateway, K-Stream keeps the server temperature steady at 22 degrees. We call this 'Infrastructure Defense.' It's not just about uptime; it's about protecting your hardware investment. Vorex is the shared engine here, but for Kyberon, its high-speed packet inspection is used purely for stability and cooling. Let's look at the segments to see the specific hardware reaction times.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:45",
+      "text": "Welcome to the K-Stream technical demo. Today we are looking at K-Stream, our proprietary traffic shield powered by the Vorex engine.",
+      "speaker": "Kyberon Lead Engineer"
+    },
+    {
+      "start": "00:46",
+      "end": "01:30",
+      "text": "When we talk about infrastructure, we talk about physical limits. Every request to a server generates physical stress, heat, and electricity.",
+      "speaker": "Kyberon Lead Engineer"
+    },
+    {
+      "start": "01:31",
+      "end": "02:15",
+      "text": "In this demo, you'll see a simulated DDoS attack. Notice the temperature spiking to 90 degrees Celsius in the top right. This is where hardware failure begins.",
+      "speaker": "Kyberon Lead Engineer"
+    },
+    {
+      "start": "02:16",
+      "end": "03:45",
+      "text": "Now, we activate the Vorex-powered K-Stream. It filters malicious patterns at the firmware layer, before the CPU is even stressed. The temperature drops immediately back to 22 degrees.",
+      "speaker": "Kyberon Lead Engineer"
+    },
+    {
+      "start": "03:46",
+      "end": "05:15",
+      "text": "We call this 'Infrastructure Defense.' Vorex provides the high-speed packet inspection needed for Kyberon's hardware stability. Uptime is now a physical guarantee.",
+      "speaker": "Kyberon Lead Engineer"
+    }
+  ]
+}

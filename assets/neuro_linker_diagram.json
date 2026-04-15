@@ -1,0 +1,31 @@
+{
+  "alt_text": "A high-magnification technical diagram illustrating the microscopic threading schema of Hexenon-M Alpha fibers within a peripheral nerve fascicle during spinal reconstruction.",
+  "ocr_text": "PROXIMAL NERVE ENDING. DISTAL NERVE ENDING. HEXENON-M ALPHA (5.0μm). FASCICLE BUNDLE. NEURAL GAP: 15mm. INTEGRATION ZONE: 2mm DEPTH. MULTI-THREAD MATRIX.",
+  "tags": [
+    "diagram",
+    "medical",
+    "neurosurgery",
+    "microsurgery",
+    "spinal-reconstruction",
+    "Hexenon-M",
+    "anatomy"
+  ],
+  "visual_elements": [
+    {
+      "label": "Neural Fascicle",
+      "description": "Cross-section of the nerve bundle shown in light pink, with individual axons visible as microscopic dots."
+    },
+    {
+      "label": "Hexenon-M Alpha Threads",
+      "description": "Six ultra-thin gray lines representing the 5.0-micron carbon nanotube threads bridging the 15mm neural gap."
+    },
+    {
+      "label": "Integration Zone",
+      "description": "Shaded green area extending 2mm into both nerve endings, indicating where the peptide-coated threads are woven into native tissue to ensure bio-mechanical stability."
+    },
+    {
+      "label": "Signal Direction Vectors",
+      "description": "Glowing blue pulses traveling along the Hexenon-M threads, representing electrical signal fidelity across the bridge."
+    }
+  ]
+}

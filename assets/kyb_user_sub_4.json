@@ -1,0 +1,23 @@
+{
+  "full_transcript": "K-Stream is the ultimate traffic shield for your hardware. Using the Vorex engine, we filter malicious spikes at the firmware level. This prevents the physical surge of electricity that causes server overheating. Most security tools protect data; K-Stream protects the silicon itself.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:12",
+      "text": "K-Stream is the ultimate traffic shield for your hardware. Using the Vorex engine, we filter malicious spikes.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:13",
+      "end": "00:25",
+      "text": "This happens at the firmware level, preventing the physical surge of electricity that causes overheating.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:26",
+      "end": "00:38",
+      "text": "Most security tools protect data; K-Stream protects the silicon itself. It's infrastructure defense.",
+      "speaker": "Sales Rep"
+    }
+  ]
+}

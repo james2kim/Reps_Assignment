@@ -1,0 +1,16 @@
+id,company_id,title,description,created_at,is_active
+play-hex-001,comp-hexaloom-005,The DNA of Materials,Introduction to the molecular structure and unique properties of raw Hexenon.,2024-01-15T09:00:00Z,TRUE
+play-hex-002,comp-hexaloom-005,Powering Humanoid Motion,Deep dive into Hexenon-S applications for the robotics industry.,2024-02-10T10:30:00Z,TRUE
+play-hex-003,comp-hexaloom-005,Neuro-Linker Precision,Medical-grade specifications for Hexenon-M in spinal and neurological surgery.,2024-03-05T14:15:00Z,TRUE
+play-hex-004,comp-hexaloom-005,Defense Shielding & Armor,Ballistic testing data and layering strategies for Hexenon-X.,2024-03-20T08:45:00Z,TRUE
+play-hex-005,comp-hexaloom-005,Unbreakable Innovation,Safety and durability standards for Hexenon-Lite in consumer goods.,2024-04-12T16:20:00Z,TRUE
+play-vel-001,comp-veldra-001,Amproxin: Antibiotic Excellence,"Master the pitch for Amproxin, our leading antibiotic.",2024-01-01T08:00:00Z,TRUE
+play-vel-002,comp-veldra-001,Zaloric: Muscle Relief Mastery,Focused on Zaloric (Lydrenex) for muscle spasms and back pain.,2024-01-05T08:00:00Z,TRUE
+play-vel-003,comp-veldra-001,Pain Management Portfolio,Overview of Veldra pain relief solutions.,2024-01-10T08:00:00Z,TRUE
+play-aet-001,comp-aetheris-002,Somnirel: Sleep Science,Training on Somnirel herbal sleep aid.,2024-01-01T09:00:00Z,TRUE
+play-aet-002,comp-aetheris-002,Nuvia: Peace of Mind,Training on Nuvia (Lydrenex) for social anxiety.,2024-01-06T09:00:00Z,TRUE
+play-aet-003,comp-aetheris-002,Cognitive Wellness & Focus,Enhancing focus and managing daily stress.,2024-01-11T09:00:00Z,TRUE
+play-kyb-001,comp-kyberon-003,GridMaster: Powering the Machine,Strategic selling for hardware power balancing and server rack optimization.,2024-03-01T08:00:00Z,TRUE
+play-kyb-002,comp-kyberon-003,K-Stream: The Traffic Shield,Positioning Vorex as a critical layer for hardware protection and stability.,2024-03-05T08:00:00Z,TRUE
+play-sen-001,comp-sentivue-004,Lumina: The Future of Insight,Mastering AI-driven reporting and predictive business analysis.,2024-03-01T09:00:00Z,TRUE
+play-sen-002,comp-sentivue-004,Sentilink: The Insight Bridge,Selling Vorex-accelerated data feeding for high-speed generative AI models.,2024-03-06T09:00:00Z,TRUE

@@ -1,0 +1,43 @@
+id,submission_id,company_id,score,text,created_at
+fb-hex-001,sub-hex-001,comp-hexaloom-005,8,Great explanation of conductivity. Try to slow down when explaining the weight ratio.,2024-02-15T14:25:00Z
+fb-hex-002,sub-hex-002,comp-hexaloom-005,6,Your technical points are accurate but the tone is a bit too clinical for a sales pitch.,2024-02-16T09:15:00Z
+fb-hex-003,sub-hex-003,comp-hexaloom-005,9,Excellent use of the 'Synthetic Sinew' analogy. Very persuasive for a robotics client.,2024-02-16T11:50:00Z
+fb-hex-004,sub-hex-004,comp-hexaloom-005,7,Good energy! However you missed the part about how electricity triggers contraction.,2024-02-17T15:35:00Z
+fb-hex-005,sub-hex-005,comp-hexaloom-005,5,Pacing was quite fast and you didn't mention Hexenon-S by name.,2024-02-18T10:05:00Z
+fb-hex-006,sub-hex-006,comp-hexaloom-005,8,Solid technical overview. Next time try to focus more on the 'fluid movement' benefit.,2024-02-19T13:20:00Z
+fb-hex-007,sub-hex-007,comp-hexaloom-005,9,You nailed the 'indestructible' polymer pitch. Perfect for hobbyist drone markets.,2024-04-20T11:05:00Z
+fb-hex-008,sub-hex-008,comp-hexaloom-005,7,Clear delivery but you spent too much time on safety and not enough on durability.,2024-04-21T14:35:00Z
+fb-hex-009,sub-hex-009,comp-hexaloom-005,6,Written response is clear but lacks the 'excitement' needed for an innovation pitch.,2024-04-22T08:50:00Z
+fb-hex-010,sub-hex-010,comp-hexaloom-005,8,Very professional appearance. Great mention of the non-toxic polymer standards.,2024-04-23T16:25:00Z
+fb-hex-011,sub-hex-011,comp-hexaloom-005,4,You seemed a bit unprepared. Review the 'Unbreakable Innovation' watch rep again.,2024-04-24T12:15:00Z
+fb-hex-012,sub-hex-012,comp-hexaloom-005,9,Superb objection handling regarding the polymer costs. Very confident.,2024-04-25T09:55:00Z
+fb-hex-013,sub-hex-013,comp-hexaloom-005,7,Good attempt at the 'DNA' analogy but ensure you mention the carbon weaving process specifically.,2024-01-20T10:05:00Z
+fb-hex-014,sub-hex-014,comp-hexaloom-005,9,Excellent technical write-up. You clearly understand the molecular superiority of Hexenon.,2024-01-21T11:35:00Z
+fb-hex-015,sub-hex-015,comp-hexaloom-005,5,A bit too much jargon. Remember to translate the 'molecular weave' into benefits for the client.,2024-01-22T09:20:00Z
+fb-hex-016,sub-hex-016,comp-hexaloom-005,8,Strong comparison! Mentioning the 'five times lighter than steel' metric was the highlight.,2024-03-25T14:05:00Z
+fb-hex-017,sub-hex-017,comp-hexaloom-005,7,Clear delivery. Try to emphasize how the weight reduction impacts fuel efficiency for defense vehicles.,2024-03-26T10:35:00Z
+fb-hex-018,sub-hex-018,comp-hexaloom-005,6,The comparison is technically correct but lacked the persuasive edge needed for a solution sell.,2024-03-27T16:50:00Z
+fb-hex-019,sub-hex-019,comp-hexaloom-005,4,You struggled with the cost objection. Re-watch the 'Sales Value' video in Play 007.,2024-06-15T09:05:00Z
+fb-hex-020,sub-hex-020,comp-hexaloom-005,8,Great pivot from price to performance value. You handled the 'high cost' pushback well.,2024-06-16T11:25:00Z
+fb-hex-021,sub-hex-021,comp-hexaloom-005,9,Perfect response. Using the long-term ROI of lighter materials was a winning strategy.,2024-06-17T15:45:00Z
+fb-vel-001,sub-vel-001,comp-veldra-001,9,Very persuasive and confident delivery.,2024-02-16T09:00:00Z
+fb-vel-002,sub-vel-002,comp-veldra-001,6,Great job! Your pitch was clear.,2024-02-16T09:00:00Z
+fb-vel-003,sub-vel-003,comp-veldra-001,6,Great job! Your pitch was clear.,2024-02-16T09:00:00Z
+fb-vel-004,sub-vel-004,comp-veldra-001,9,"Good effort, but try to engage more with the audience.",2024-02-16T09:00:00Z
+fb-vel-005,sub-vel-005,comp-veldra-001,7,"Good effort, but try to engage more with the audience.",2024-02-16T09:00:00Z
+fb-aet-001,sub-aet-001,comp-aetheris-002,7,Very persuasive and confident delivery.,2024-02-16T09:00:00Z
+fb-aet-002,sub-aet-002,comp-aetheris-002,8,Very persuasive and confident delivery.,2024-02-16T09:00:00Z
+fb-aet-003,sub-aet-003,comp-aetheris-002,7,Excellent understanding of the product features.,2024-02-16T09:00:00Z
+fb-aet-004,sub-aet-004,comp-aetheris-002,8,Great job! Your pitch was clear.,2024-02-16T09:00:00Z
+fb-kyb-001,sub-kyb-001,comp-kyberon-003,9,Needs improvement in addressing customer concerns. But good job overall.,2024-04-26T09:00:00Z
+fb-kyb-002,sub-kyb-002,comp-kyberon-003,10,Very persuasive and confident delivery.,2024-04-26T09:00:00Z
+fb-kyb-003,sub-kyb-003,comp-kyberon-003,8,Excellent understanding of the product features.,2024-04-26T09:00:00Z
+fb-kyb-004,sub-kyb-004,comp-kyberon-003,6,Excellent understanding of the product features.,2024-04-26T09:00:00Z
+fb-kyb-005,sub-kyb-005,comp-kyberon-003,10,Needs improvement in addressing customer concerns. But good job overall.,2024-04-26T09:00:00Z
+fb-kyb-006,sub-kyb-006,comp-kyberon-003,7,Great job! Your pitch was clear.,2024-04-26T09:00:00Z
+fb-sen-007,sub-sen-007,comp-sentivue-004,6,Needs improvement in addressing customer concerns. But good job overall.,2024-04-26T09:00:00Z
+fb-sen-008,sub-sen-008,comp-sentivue-004,7,Very persuasive and confident delivery.,2024-04-26T09:00:00Z
+fb-sen-009,sub-sen-009,comp-sentivue-004,9,"Good effort, but try to engage more with the audience.",2024-04-26T09:00:00Z
+fb-sen-010,sub-sen-010,comp-sentivue-004,9,Excellent understanding of the product features.,2024-04-26T09:00:00Z
+fb-sen-011,sub-sen-011,comp-sentivue-004,10,Very persuasive and confident delivery.,2024-04-26T09:00:00Z
+fb-sen-012,sub-sen-012,comp-sentivue-004,6,"Good effort, but try to engage more with the audience.",2024-04-26T09:00:00Z

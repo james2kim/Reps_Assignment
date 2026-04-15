@@ -1,0 +1,43 @@
+[
+  {
+    "page": 1,
+    "text": "Stress Management & Neuro-Science. 1. Neurobiology of Modern Stress. HPA Axis and Cortisol Fog. 2. Performance Inversion Curve. Yerkes-Dodson Law. 3. Focus Enhancers: Beyond Stimulation. Nootropic support. Table 1: Cognitive Performance Matrix.",
+    "sections": [
+      {
+        "id": "sec_1_1",
+        "heading": "1. Neurobiology of Stress",
+        "content": "Chronic stress leads to sustained cortisol elevation, impairing focus."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_1_1",
+        "title": "Table 1: Cognitive Performance Matrix",
+        "headers": ["Brain Function", "Nutrient", "Product Role"],
+        "rows": [
+          ["Memory", "Phosphatidylserine", "Membrane integrity"],
+          ["Attention", "Bacopa Monnieri", "Communication speed"],
+          ["Resilience", "Ashwagandha", "Cortisol modulation"]
+        ],
+        "metadata": { "nootropic_data": true }
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "text": "4. Integrating the Portfolio. The Aetheris Daily Cycle. Morning Focus, Afternoon Nuvia, Evening Somnirel. 5. Sales Strategy: The Premium Mind.",
+    "sections": [
+      {
+        "id": "sec_2_1",
+        "heading": "4. Integrating the Portfolio",
+        "content": "Reps sell a 24-hour system to optimize focus and reset the HPA axis."
+      },
+      {
+        "id": "sec_2_2",
+        "heading": "5. Sales Strategy",
+        "content": "Positioning Aetheris as a high-end tool for students and professionals to provide 'signal in the noise'."
+      }
+    ],
+    "tables": []
+  }
+]

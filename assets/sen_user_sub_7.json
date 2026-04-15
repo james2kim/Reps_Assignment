@@ -1,0 +1,23 @@
+{
+  "full_transcript": "Lumina is designed for the modern executive. We don't just show charts; we show insights. Using Senti-Summary, we take a 50-page business report and condense it into the three points you actually need. It's about 'Zero-Click' reporting for faster decision-making.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "text": "Lumina is designed for the modern executive. We don't just show charts; we show insights.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:11",
+      "end": "00:22",
+      "text": "Using Senti-Summary, we take a 50-page business report and condense it into three points.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:23",
+      "end": "00:35",
+      "text": "It's about 'Zero-Click' reporting. Lumina is the executive brain for your data cloud.",
+      "speaker": "Sales Rep"
+    }
+  ]
+}

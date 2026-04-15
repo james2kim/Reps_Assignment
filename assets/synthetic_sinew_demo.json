@@ -1,0 +1,65 @@
+{
+  "full_transcript": "Welcome to Hexaloom Nanoworks. Today we are looking at the future of robotics: Hexenon-S, also known as Synthetic Sinew. Traditional robots are clunky, limited by heavy motors and rigid hydraulics. But with Hexenon-S, we've unlocked fluid, organic motion. By weaving carbon nanotubes into bundles that mimic human muscle fibers, we can achieve contraction through simple electrical pulses. Dr. Aris Thorne here will explain the molecular trigger. When we apply a low-voltage current to the Hexenon-S bundle, the nanotubes contract instantly, providing a strength-to-weight ratio that motors simply can't match. Marcus, show us the bicep assembly. As you can see, as I move the controller, the sinew bundles on the robotic arm contract and relax just like a biological arm. There's no mechanical whine, no jerky movements. It's silent and precise. This allows for robots that can work alongside humans in delicate environments, from surgery to precision manufacturing. This is how we power the next generation of humanoid motion.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:12",
+      "text": "Welcome to Hexaloom Nanoworks. Today we are looking at the future of robotics: Hexenon-S, also known as Synthetic Sinew.",
+      "speaker": "Narrator"
+    },
+    {
+      "start": "00:13",
+      "end": "00:25",
+      "text": "Traditional robots are clunky, limited by heavy motors and rigid hydraulics. But with Hexenon-S, we've unlocked fluid, organic motion.",
+      "speaker": "Narrator"
+    },
+    {
+      "start": "00:26",
+      "end": "00:38",
+      "text": "By weaving carbon nanotubes into bundles that mimic human muscle fibers, we can achieve contraction through simple electrical pulses.",
+      "speaker": "Narrator"
+    },
+    {
+      "start": "00:39",
+      "end": "00:44",
+      "text": "Dr. Aris Thorne here will explain the molecular trigger.",
+      "speaker": "Narrator"
+    },
+    {
+      "start": "00:45",
+      "end": "01:05",
+      "text": "When we apply a low-voltage current to the Hexenon-S bundle, the nanotubes contract instantly, providing a strength-to-weight ratio that motors simply can't match.",
+      "speaker": "Dr. Aris Thorne"
+    },
+    {
+      "start": "01:06",
+      "end": "01:10",
+      "text": "Marcus, show us the bicep assembly.",
+      "speaker": "Dr. Aris Thorne"
+    },
+    {
+      "start": "01:11",
+      "end": "01:25",
+      "text": "As you can see, as I move the controller, the sinew bundles on the robotic arm contract and relax just like a biological arm.",
+      "speaker": "Marcus Chen"
+    },
+    {
+      "start": "01:26",
+      "end": "01:38",
+      "text": "There's no mechanical whine, no jerky movements. It's silent and precise.",
+      "speaker": "Marcus Chen"
+    },
+    {
+      "start": "01:39",
+      "end": "01:52",
+      "text": "This allows for robots that can work alongside humans in delicate environments, from surgery to precision manufacturing.",
+      "speaker": "Narrator"
+    },
+    {
+      "start": "01:53",
+      "end": "02:05",
+      "text": "This is how we power the next generation of humanoid motion.",
+      "speaker": "Narrator"
+    }
+  ]
+}

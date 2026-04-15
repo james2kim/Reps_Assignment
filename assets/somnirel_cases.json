@@ -1,0 +1,48 @@
+[
+  {
+    "page": 1,
+    "text": "Somnirel Clinical Dossier: Patient Case Studies. 1. Overview. Real-world longitudinal outcomes. 2. Case Study A: The Executive Insomniac. Acute Stress patient. Table 1: 4-Week Progress.",
+    "sections": [
+      {
+        "id": "sec_1_1",
+        "heading": "2. Case Study A",
+        "content": "45-year-old male executive reduced sleep latency from 75 to 18 minutes over 4 weeks."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_1_1",
+        "title": "Table 1: 4-Week Progress (Executive Case)",
+        "headers": ["Metric", "Baseline", "Week 1", "Week 4"],
+        "rows": [
+          ["Sleep Latency", "75 Min", "40 Min", "18 Min"],
+          ["Awakenings", "3-4 Times", "1-2 Times", "0-1 Times"]
+        ],
+        "metadata": { "case_study": true }
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "text": "3. Case Study B: The Shift Worker. Circadian Disruption in ER Nurse. Table 2: Sleep Quality Scoring. 4. Longitudinal Safety Data. 0% dependency reported.",
+    "sections": [
+      {
+        "id": "sec_2_1",
+        "heading": "3. Case Study B",
+        "content": "ER Nurse improved sleep efficiency from 62% to 88% using Melatonin-SR component."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_2_1",
+        "title": "Table 2: Sleep Quality Scoring",
+        "headers": ["Parameter", "Without Somnirel", "With Somnirel", "Improvement"],
+        "rows": [
+          ["Sleep Efficiency", "62%", "88%", "+26%"],
+          ["Duration", "4.5 Hours", "7.0 Hours", "+2.5 Hours"]
+        ],
+        "metadata": { "efficiency_data": true }
+      }
+    ]
+  }
+]

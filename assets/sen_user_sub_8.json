@@ -1,0 +1,23 @@
+{
+  "full_transcript": "The power of Lumina is in its predictive accuracy. While standard analytics are around 68 percent accurate, our Trend-Pulse engine reaches 92 percent accuracy for retail demand. We help you move from reacting to what happened yesterday to predicting what will happen in six months.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:12",
+      "text": "The power of Lumina is in its predictive accuracy. Standard analytics just don't cut it anymore.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:13",
+      "end": "00:25",
+      "text": "Our Trend-Pulse engine reaches 92 percent accuracy for retail demand forecasting.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:26",
+      "end": "00:38",
+      "text": "We help you move from reacting to yesterday to predicting six months into the future.",
+      "speaker": "Sales Rep"
+    }
+  ]
+}

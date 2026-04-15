@@ -1,0 +1,23 @@
+{
+  "full_transcript": "We need to talk about rack density. As you pack more GPUs into your data center, your failure rate will climb. GridMaster uses automated phase balancing to prevent breaker trips. We've seen hardware failure rates drop from 2.4 percent down to 0.8 percent in managed clusters. It pays for itself in avoided downtime.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "text": "We need to talk about rack density. As you pack more GPUs into your data center, your failure rate will climb.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:11",
+      "end": "00:22",
+      "text": "GridMaster uses automated phase balancing to prevent breaker trips. We've seen hardware failure rates drop significantly.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:23",
+      "end": "00:35",
+      "text": "Failure rates dropped from 2.4 to 0.8 percent. It pays for itself in avoided downtime.",
+      "speaker": "Sales Rep"
+    }
+  ]
+}

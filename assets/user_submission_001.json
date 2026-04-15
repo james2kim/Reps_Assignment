@@ -1,0 +1,29 @@
+{
+    "full_transcript": "Hi there. I'm here to talk about Hexenon-S and how it's changing robotics. Basically, instead of using those big, heavy motors, we use these nanotubes that act like muscles. They call it Synthetic Sinew. When you hit it with electricity, it contracts just like a human muscle would. This makes the robots move much more smoothly and it's way lighter than the old stuff.",
+    "segments": [
+        {
+            "start": "00:00",
+            "end": "00:10",
+            "text": "Hi there. I'm here to talk about Hexenon-S and how it's changing robotics.",
+            "speaker": "Frank White"
+        },
+        {
+            "start": "00:11",
+            "end": "00:22",
+            "text": "Basically, instead of using those big, heavy motors, we use these nanotubes that act like muscles.",
+            "speaker": "Frank White"
+        },
+        {
+            "start": "00:23",
+            "end": "00:35",
+            "text": "They call it Synthetic Sinew. When you hit it with electricity, it contracts just like a human muscle would.",
+            "speaker": "Frank White"
+        },
+        {
+            "start": "00:36",
+            "end": "00:45",
+            "text": "This makes the robots move much more smoothly and it's way lighter than the old stuff.",
+            "speaker": "Frank White"
+        }
+    ]
+}

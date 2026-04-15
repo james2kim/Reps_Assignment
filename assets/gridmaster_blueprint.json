@@ -1,0 +1,78 @@
+[
+  {
+    "page": 1,
+    "text": "Kyberon Cloud: GridMaster™ Hardware Blueprint. Technical Specification & Deployment Guide (Internal Sales Only). 1. Executive Summary: 'The Power of the Machine'. GridMaster is the industry-standard for automated power balancing in hyper-scale data centers. 2. Architecture Overview. The GridMaster system operates at the PDU (Power Distribution Unit) layer, utilizing real-time sensors. Table 1: Grid Master V4 Hardware Specs.",
+    "sections": [
+      {
+        "id": "sec_1_1",
+        "heading": "1. Executive Summary: 'The Power of the Machine'",
+        "content": "GridMaster acts as the central nervous system for physical rack management, preventing thermal runaway and power grid failure in high-density AI environments."
+      },
+      {
+        "id": "sec_1_2",
+        "heading": "2. Architecture Overview",
+        "content": "Operates at the PDU layer using real-time sensors to distribute electrical load with millisecond latency."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_1_1",
+        "title": "Table 1: Grid Master V4 Hardware Specs",
+        "headers": ["Component", "Specification", "Function"],
+        "rows": [
+          ["Processor", "Quad-Core K-Logic 3.2GHz", "Real-time edge processing of thermal data"],
+          ["Sensor Array", "128-point Thermal Net", "Millisecond-latency temperature monitoring"],
+          ["Switching Speed", "< 5ms", "Rapid load shedding during grid fluctuations"],
+          ["Max Capacity", "2.5 MW per cluster", "Scalable to Tier-IV Data Center environments"]
+        ],
+        "metadata": {
+          "hardware_specs": true
+        }
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "text": "3. Efficiency Algorithms: The 'Equilibrium' Engine. GridMaster doesn't just monitor; it predicts. Table 2: Thermal Efficiency Gains (Pre vs. Post Grid Master). 4. Hardware Optimization & Rack Management. Key Deployment Features: Automated Phase Balancing, Virtualization Sync, Emergency Shedding.",
+    "sections": [
+      {
+        "id": "sec_2_1",
+        "heading": "3. Efficiency Algorithms: The 'Equilibrium' Engine",
+        "content": "Uses historical power draw patterns to preemptively shift loads to cooler server banks."
+      },
+      {
+        "id": "sec_2_2",
+        "heading": "4. Hardware Optimization & Rack Management",
+        "content": "Focuses on protecting million-dollar hardware through phase balancing, virtualization synchronization with hypervisors, and emergency load shedding."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_2_1",
+        "title": "Table 2: Thermal Efficiency Gains (Pre vs. Post Grid Master)",
+        "headers": ["Metric", "Baseline (Manual)", "With GridMaster", "Efficiency Gain"],
+        "rows": [
+          ["Average Rack Temp", "24.5°C", "21.8°C", "-11.02%"],
+          ["PUE (Power Usage Effectiveness)", "1.62", "1.14", "+29.6%"],
+          ["Cooling Energy Cost", "$145k/mo", "$98k/mo", "-32.4%"],
+          ["Hardware Failure Rate", "2.4%", "0.8%", "-66.6%"]
+        ],
+        "metadata": {
+          "performance_metrics": true
+        }
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "text": "5. Strategic Pitch: The 'Machine First' Perspective. 'CTO, your AI is only as smart as the server it runs on. If your hardware fails, your intelligence fails. GridMaster ensures that The Machine never stops.'",
+    "sections": [
+      {
+        "id": "sec_3_1",
+        "heading": "5. Strategic Pitch: The 'Machine First' Perspective",
+        "content": "Positions hardware stability as the foundational requirement for AI intelligence."
+      }
+    ],
+    "tables": []
+  }
+]

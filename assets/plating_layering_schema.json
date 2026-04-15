@@ -1,0 +1,31 @@
+{
+  "alt_text": "A technical cross-section schematic of Hexenon-X ballistic armor plating, illustrating the 'Hybrid-Ply' layering strategy used for Level IV threat protection.",
+  "ocr_text": "LAYER 1: STRIKE FACE (5mm HEXENON-X). LAYER 2: CERAMIC MATRIX CORE (10mm). LAYER 3: STRUCTURAL BACKING (3mm HEXENON-X). KINETIC ENERGY INGRESS. MOLECULAR DISPERSION PATHS. THERMAL CONVERSION ZONE.",
+  "tags": [
+    "schematic",
+    "defense",
+    "armor",
+    "layering",
+    "ballistics",
+    "Hexenon-X",
+    "engineering"
+  ],
+  "visual_elements": [
+    {
+      "label": "Impact Strike Face",
+      "description": "The outermost 5mm Hexenon-X layer where initial molecular dispersion occurs, characterized by a tight honeycomb lattice."
+    },
+    {
+      "label": "Energy Dispersion Vectors",
+      "description": "Red arrows originating from the impact point that spread horizontally across the weave, illustrating the conversion of kinetic force into thermal energy."
+    },
+    {
+      "label": "Ceramic Matrix",
+      "description": "The central 10mm core designed to capture projectile fragments after the initial Hexenon-X strike face has reduced the velocity."
+    },
+    {
+      "label": "Structural Back-Plate",
+      "description": "The innermost 3mm layer of Hexenon-X that prevents back-face deformation and maintains the structural integrity of the vehicle or vest."
+    }
+  ]
+}

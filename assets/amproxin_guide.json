@@ -1,0 +1,48 @@
+[
+  {
+    "page": 1,
+    "text": "Veldra Therapeutics: Amproxin Product Guide. Internal Training Document: For Sales Representative Use Only. 1. Product Overview. Brand Name: Amproxin, Generic Name: Amproxin-hydrochloride. Classification: Broad-Spectrum Fluoroquinolone Antibiotic. Indications: Respiratory tract infections, urinary tract infections (UTIs), and skin/soft tissue infections. Amproxin is Veldra's flagship 'medicine cabinet staple.' 2. Clinical Efficacy & Clinical Data. Amproxin works by inhibiting DNA gyrase and topoisomerase IV. Table 1: Efficacy vs. Common Pathogens.",
+    "sections": [
+      {
+        "id": "sec_1_1",
+        "heading": "1. Product Overview",
+        "content": "Amproxin is a Broad-Spectrum Fluoroquinolone Antibiotic indicated for respiratory, urinary tract, and skin infections. It is recognized for reliability and rapid onset."
+      },
+      {
+        "id": "sec_1_2",
+        "heading": "2. Clinical Efficacy & Clinical Data",
+        "content": "The mechanism involves inhibiting DNA gyrase and topoisomerase IV to prevent bacterial cell division."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_1_1",
+        "title": "Table 1: Efficacy vs. Common Pathogens",
+        "headers": ["Pathogen Category", "Specific Pathogen", "Eradication Rate (Amproxin)", "Eradication Rate (Standard Macrolide)"],
+        "rows": [
+          ["Gram-Positive", "Streptococcus pneumoniae", "94.2%", "88.5%"],
+          ["Gram-Positive", "Staphylococcus aureus", "91.8%", "82.1%"],
+          ["Gram-Negative", "Haemophilus influenzae", "98.1%", "91.0%"]
+        ],
+        "metadata": { "clinical_data": true }
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "text": "Gram-Negative Escherichia coli: 95.5% vs 89.4%. 3. Key Selling Points (The Veldra Pitch). 1. Rapid Onset: 60 minutes. 2. Broad Spectrum. 3. Reliability: 15 years data. 4. Flexible Delivery: 250mg, 500mg, 750mg. 4. Market Positioning. First-Line Response for seasonal infections.",
+    "sections": [
+      {
+        "id": "sec_2_1",
+        "heading": "3. Key Selling Points",
+        "content": "Features rapid onset, broad-spectrum coverage, and 15 years of proven reliability."
+      },
+      {
+        "id": "sec_2_2",
+        "heading": "4. Market Positioning",
+        "content": "Positioned as the First-Line Response for acute bacterial symptoms to minimize patient downtime."
+      }
+    ],
+    "tables": []
+  }
+]

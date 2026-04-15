@@ -1,0 +1,65 @@
+{
+    "full_transcript": "Welcome to Hexaloom Defense Range 4. Today, we are conducting a side-by-side impact comparison between 48-millimeter Rolled Homogeneous Armor—standard RHA Steel—and our 9.2-millimeter Hexenon-X Lattice-Stack. Our goal is to demonstrate why 'Mass-Blocking' is an obsolete concept in modern theater. I'm Sarah Jenkins, Director of Defense Systems. To my left is a standard steel plate, weighing in at approximately 50 kilograms. To my right, the Hexenon-X panel, providing the exact same protection level at only 9 kilograms. Range is hot. Engaging the steel target with a 7.62x51mm NATO round at 850 meters per second. [Sound of high-velocity impact and metallic clanging]. As we zoom in on the high-speed footage, you can see the catastrophic failure of the steel's crystalline structure. The energy is concentrated at the point of impact, resulting in a back-face deformation of 42 millimeters. This would result in lethal blunt-force trauma to any occupant behind this plate. Now, let's switch to the Hexenon-X panel. Same round, same velocity. [Sound of muffled thud]. Look at the thermal cameras. You aren't seeing a hole; you're seeing a heat signature. That is 'Molecular Dispersion' in action. The 3D lattice-stack of carbon nanotubes caught the projectile like a 'molecular catcher's mitt,' instantly converting kinetic energy into thermal energy and dissipating it across the entire weave. Back-face deformation check: 4 millimeters. That is a 90% reduction in trauma compared to steel. But the real advantage is what happens next. Traditional ceramic armor would have shattered after that first hit. Steel would be compromised. Commander Vance, proceed with the multi-hit sequence. [Rapid succession of three impacts]. Three hits in a 50-millimeter radius. The Hexenon-X panel is still structurally sound. Because the nanotubes are woven, not pressed, the material doesn't crack—it adapts. This panel can take a dozen more hits before we see a drop in V50 performance. For our sales teams: When you talk to procurement, don't just talk about safety. Talk about agility. A vehicle using Hexenon-X is 80% lighter. That means it's faster, it uses less fuel, and it saves lives both through protection and mobility. This is the kinetic revolution. This is Hexenon-X.",
+    "segments": [
+      {
+        "start": "00:00",
+        "end": "00:18",
+        "text": "Welcome to Hexaloom Defense Range 4. Today, we are conducting a side-by-side impact comparison between 48mm RHA Steel and our 9.2mm Hexenon-X Lattice-Stack.",
+        "speaker": "Narrator"
+      },
+      {
+        "start": "00:19",
+        "end": "00:35",
+        "text": "I'm Sarah Jenkins, Director of Defense Systems. To my left is a standard steel plate, 50 kilograms. To my right, the Hexenon-X panel, at only 9 kilograms.",
+        "speaker": "Sarah Jenkins"
+      },
+      {
+        "start": "00:36",
+        "end": "00:48",
+        "text": "Range is hot. Engaging the steel target with a 7.62x51mm NATO round at 850 meters per second.",
+        "speaker": "Range Officer"
+      },
+      {
+        "start": "00:49",
+        "end": "01:05",
+        "text": "Notice the catastrophic failure of the steel's structure. Energy is concentrated at the point of impact, resulting in a lethal 42mm back-face deformation.",
+        "speaker": "Sarah Jenkins"
+      },
+      {
+        "start": "01:06",
+        "end": "01:15",
+        "text": "Now, the Hexenon-X panel. Same round, same velocity.",
+        "speaker": "Range Officer"
+      },
+      {
+        "start": "01:16",
+        "end": "01:35",
+        "text": "Look at the thermal cameras. You're seeing 'Molecular Dispersion.' The 3D lattice-stack caught the projectile and converted kinetic energy into thermal energy instantly.",
+        "speaker": "Sarah Jenkins"
+      },
+      {
+        "start": "01:36",
+        "end": "01:45",
+        "text": "Back-face deformation check: 4 millimeters. That is a 90% reduction in trauma compared to steel.",
+        "speaker": "Narrator"
+      },
+      {
+        "start": "01:46",
+        "end": "02:00",
+        "text": "Commander Vance, proceed with the multi-hit sequence. [Three rapid impacts]. Three hits in a 50mm radius, and the panel remains structurally sound.",
+        "speaker": "Sarah Jenkins"
+      },
+      {
+        "start": "02:01",
+        "end": "02:15",
+        "text": "Hexenon-X doesn't crack—it adapts. This allows for a vehicle that is 80% lighter and significantly more agile in the field.",
+        "speaker": "Sarah Jenkins"
+      },
+      {
+        "start": "02:16",
+        "end": "02:30",
+        "text": "This is the kinetic revolution. This is Hexenon-X. Protecting lives through mobility and molecular strength.",
+        "speaker": "Narrator"
+      }
+    ]
+  }

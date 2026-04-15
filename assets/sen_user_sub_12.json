@@ -1,0 +1,23 @@
+{
+  "full_transcript": "Sentilink isn't just about speed; it's about intelligence. It feeds perfectly formatted data tokens into your LLMs, reducing the hallucination rate by providing grounded context at the edge of the cloud. It's the infrastructure that powers the brain of the web.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:12",
+      "text": "Sentilink isn't just about speed; it's about intelligence and data integrity.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:13",
+      "end": "00:25",
+      "text": "It feeds formatted tokens into LLMs, reducing hallucinations by providing grounded context.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:26",
+      "end": "00:38",
+      "text": "It is the essential infrastructure that powers the intelligent brain of the web.",
+      "speaker": "Sales Rep"
+    }
+  ]
+}

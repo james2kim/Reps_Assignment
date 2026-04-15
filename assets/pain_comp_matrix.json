@@ -1,0 +1,43 @@
+[
+  {
+    "page": 1,
+    "text": "Pain Management: Competitor Analysis & Matrix. Strategy Document. 1. Competitive Landscape. Competing with NSAIDs and specialized muscle relaxants. 2. Head-to-Head Comparison. Advantage in speed and GI safety. Table 4: Competitor Matrix.",
+    "sections": [
+      {
+        "id": "sec_1_1",
+        "heading": "1. Competitive Landscape",
+        "content": "Focuses on physical manifestations of pain vs traditional anti-inflammatories."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_1_1",
+        "title": "Table 4: Competitor Matrix",
+        "headers": ["Metric", "Veldra Zaloric", "Generic Ibuprofen", "Brand Naproxen", "Aetheris Nuvia"],
+        "rows": [
+          ["Category", "Muscle Relaxant", "NSAID", "NSAID", "Calming Agent"],
+          ["Speed", "30-45 Min", "60+ Min", "90+ Min", "20-30 Min"],
+          ["GI Stress", "Low", "High", "Medium-High", "Very Low"]
+        ],
+        "metadata": { "market_intelligence": true }
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "text": "Sedation: Moderate vs None. Best For: Spasms vs Fever vs Anxiety. 3. Strategic Positioning: Body vs. Mind. Focus on physicality for Veldra. 4. Market Share Projection. Targeting 22% of back pain market.",
+    "sections": [
+      {
+        "id": "sec_2_1",
+        "heading": "3. Strategic Positioning: Body vs. Mind",
+        "content": "Clarifies the sales angle: Veldra is for sharp, physical limits; Aetheris is for mental weight."
+      },
+      {
+        "id": "sec_2_2",
+        "heading": "4. Market Share Projection",
+        "content": "Aims for 22% capture of generic NSAID market share."
+      }
+    ],
+    "tables": []
+  }
+]

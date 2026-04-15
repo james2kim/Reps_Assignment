@@ -1,0 +1,49 @@
+[
+  {
+    "page": 1,
+    "text": "Aetheris Pharma: Somnirel Sleep Science & Herbal Benefits. 1. Philosophy of Natural Rest. Sleep Architect vs sedation. 2. Proprietary Composition: The Aether-Blend. Synergistic botanical extracts. Table 1: Somnirel Active Botanical Components.",
+    "sections": [
+      {
+        "id": "sec_1_1",
+        "heading": "1. Philosophy of Natural Rest",
+        "content": "Somnirel optimizes sleep stage transitions rather than forcing unconsciousness."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_1_1",
+        "title": "Table 1: Somnirel Active Botanical Components",
+        "headers": ["Ingredient", "Source", "Mechanism", "Benefit"],
+        "rows": [
+          ["Valeriana Aetheris", "Alpine Root", "GABA-A binding", "Reduces latency"],
+          ["Passiflora Ultra", "Tropical Bloom", "Increase GABA", "Prolongs Deep Sleep"],
+          ["L-Theanine Gold", "Green Tea", "Alpha-wave induction", "Reduces grogginess"]
+        ],
+        "metadata": { "herbal_science": true }
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "text": "3. The Science of Sleep Architecture. Hypnogram analysis. Table 2: Impact on Sleep Cycles. 4. Competitive Differentiation: The Morning After. Clean wakefulness. 5. Master the Pitch.",
+    "sections": [
+      {
+        "id": "sec_2_1",
+        "heading": "3. Science of Sleep Architecture",
+        "content": "Somnirel preserves REM sleep while competitors suppress it."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_2_1",
+        "title": "Table 2: Impact on Sleep Cycles",
+        "headers": ["Sleep Phase", "Standard Sedative", "Somnirel Impact", "Sales Benefit"],
+        "rows": [
+          ["N3 (Deep)", "Suppressed 20%", "Enhanced 15%", "Physical recovery"],
+          ["REM", "Heavily Suppressed", "Maintained", "Cognitive clarity"]
+        ],
+        "metadata": { "clinical_diff": true }
+      }
+    ]
+  }
+]

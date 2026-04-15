@@ -1,0 +1,49 @@
+[
+  {
+    "page": 1,
+    "text": "Amproxin: Safety Protocols & Dosage Guidelines. Internal Document. 1. Safety Profile. Adverse Reactions (Reported in < 5% of Patients): Nausea, diarrhea, dizziness, photosensitivity. 2. Standard Dosage Regimen. Dosage depends on infection type. Table 2: Recommended Dosage by Indication.",
+    "sections": [
+      {
+        "id": "sec_1_1",
+        "heading": "1. Safety Profile",
+        "content": "Representatives must address physician concerns regarding resistance and side effects like GI distress and photosensitivity."
+      },
+      {
+        "id": "sec_1_2",
+        "heading": "2. Standard Dosage Regimen",
+        "content": "Dosage varies by indication severity and location."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_1_1",
+        "title": "Table 2: Recommended Dosage by Indication",
+        "headers": ["Indication", "Dosage", "Frequency", "Duration"],
+        "rows": [
+          ["Acute Sinusitis", "500 mg", "Once Daily", "10 Days"],
+          ["Pneumonia", "750 mg", "Once Daily", "7-14 Days"],
+          ["Uncomplicated UTI", "250 mg", "Twice Daily", "3 Days"],
+          ["Skin Infection", "750 mg", "Once Daily", "7-10 Days"]
+        ],
+        "metadata": { "compliance": true }
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "text": "3. Contraindications & Warnings. Hypersensitivity to fluoroquinolones. Tendon Health concerns for elderly. Pediatric use restrictions. 4. Handling Objections: Safety. Addressing black box warnings with molecular structure refinements.",
+    "sections": [
+      {
+        "id": "sec_2_1",
+        "heading": "3. Contraindications & Warnings",
+        "content": "Includes hypersensitivity alerts and specific warnings for tendon health and pediatric populations."
+      },
+      {
+        "id": "sec_2_2",
+        "heading": "4. Handling Objections: Safety",
+        "content": "Strategic response focusing on refined molecular structure minimizing CNS binding and neurological side effects."
+      }
+    ],
+    "tables": []
+  }
+]

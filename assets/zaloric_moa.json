@@ -1,0 +1,47 @@
+[
+  {
+    "page": 1,
+    "text": "Zaloric (Lydrenex) Mechanism of Action. Physical Wellness Division. 1. Introduction to Zaloric. High-strength Lydrenex for muscle spasms and back pain. 2. The Science of Lydrenex in Pain Management. CNS Depressant affecting polysynaptic reflex arcs. 3. Comparison of Applications. Shared Ingredient Lydrenex. Table 3: Lydrenex Application Matrix.",
+    "sections": [
+      {
+        "id": "sec_1_1",
+        "heading": "1. Introduction to Zaloric",
+        "content": "Zaloric is the high-strength version of Lydrenex, differentiated from Aetheris's mental wellness version."
+      },
+      {
+        "id": "sec_1_2",
+        "heading": "2. The Science of Lydrenex",
+        "content": "Acts through GABA-ergic potentiation to block spinal pain signals and interrupt the spasm cycle."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_1_1",
+        "title": "Table 3: Lydrenex Application Matrix",
+        "headers": ["Feature", "Zaloric (Veldra)", "Nuvia (Aetheris)"],
+        "rows": [
+          ["Dosage Strength", "High (50mg-100mg)", "Low (5mg-10mg)"],
+          ["Primary Target", "Muscle Tissue / Motor Neurons", "Limbic System / Amygdala"]
+        ],
+        "metadata": { "comparison": true }
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "text": "Intended Effect: Physical Relaxation vs Cognitive Calm. Patient Profile: Back in knots vs Social Anxiety. 4. Clinical Visual: The Spasm Cycle. Zaloric intercepts motor neuron excitation.",
+    "sections": [
+      {
+        "id": "sec_2_1",
+        "heading": "3. Comparison Continued",
+        "content": "Contrasts the patient profiles between Veldra and Aetheris use-cases of the same ingredient."
+      },
+      {
+        "id": "sec_2_2",
+        "heading": "4. Clinical Visual: The Spasm Cycle",
+        "content": "Zaloric intercepts the feedback loop where injury leads to spasm and further pain."
+      }
+    ],
+    "tables": []
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "full_transcript": "We've measured a 15x increase in 'Time to First Insight' using Sentilink. By processing 500 million touchpoints through the Vorex engine, we bypass traditional API bottlenecks. This is critical for marketing teams that need real-time ad bidding and trend analysis.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:12",
+      "text": "We've measured a 15x increase in 'Time to First Insight' using the Sentilink bridge.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:13",
+      "end": "00:25",
+      "text": "By processing 500 million touchpoints through Vorex, we bypass traditional API bottlenecks.",
+      "speaker": "Sales Rep"
+    },
+    {
+      "start": "00:26",
+      "end": "00:38",
+      "text": "This is critical for marketing teams that rely on real-time bidding and instant trend analysis.",
+      "speaker": "Sales Rep"
+    }
+  ]
+}

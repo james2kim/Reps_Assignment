@@ -1,0 +1,42 @@
+[
+  {
+    "page": 1,
+    "text": "Nuvia (Lydrenex) Overview: The Power of Micro-Calm. 1. Introduction to Nuvia. Low-dose precision for limbic system. 2. Science of the Calm Window. Dose-dependency of Lydrenex. Table 1: The Lydrenex Dose Spectrum. 3. Mechanism: The Amygdala Shield.",
+    "sections": [
+      {
+        "id": "sec_1_1",
+        "heading": "1. Introduction to Nuvia",
+        "content": "Utilizes low-dose Lydrenex to target cognitive anxiolysis without muscle paralysis."
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab_1_1",
+        "title": "Table 1: The Lydrenex Dose Spectrum",
+        "headers": ["Dosage", "Physiological Effect", "Product Name", "Condition"],
+        "rows": [
+          ["5-10mg", "Cognitive Anxiolysis", "Nuvia", "Social Anxiety"],
+          ["50-100mg", "Neuromuscular Block", "Zaloric", "Muscle Spasms"]
+        ],
+        "metadata": { "dose_response": true }
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "text": "Key Benefits: Social Fluidity, Non-Sedative, Sublingual delivery. 4. Differentiating from Veldra. Isolating the anxiolytic fraction of the response curve.",
+    "sections": [
+      {
+        "id": "sec_2_1",
+        "heading": "Key Benefits",
+        "content": "Addresses physical anxiety symptoms (heart rate) while maintaining presence."
+      },
+      {
+        "id": "sec_2_2",
+        "heading": "4. Differentiating from Veldra",
+        "content": "Strategic differentiation: Nuvia stays below the myorelaxant threshold to avoid physical lethargy."
+      }
+    ],
+    "tables": []
+  }
+]
