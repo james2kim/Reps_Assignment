@@ -280,11 +280,10 @@ def _bulk_insert(db: Session, table: str, rows: list[dict]) -> int:
 
 
 def _truncate_all(db: Session) -> None:
-    """Clear all tables in reverse FK order."""
+    """Clear all tables in reverse FK order. search_chunks first (references assets)."""
+    db.execute(text("DELETE FROM search_chunks"))
     for table in reversed(TABLES):
         db.execute(text(f"DELETE FROM {table}"))
-    # Also clear search_chunks if it exists
-    db.execute(text("DELETE FROM search_chunks"))
 
 
 def seed(db: Session | None = None) -> dict[str, int]:

@@ -28,13 +28,19 @@ class SubmissionType(StrEnum):
 
 
 class QueryIntent(StrEnum):
-    PRODUCT_KNOWLEDGE = "product_knowledge"
-    SUBMISSION_REVIEW = "submission_review"
-    FEEDBACK_LOOKUP = "feedback_lookup"
-    GENERAL = "general"
+    ASSIGNED_SEARCH = "assigned_search"
+    GENERAL_PROFESSIONAL = "general_professional"
+    OUT_OF_SCOPE = "out_of_scope"
+    PROPRIETARY_UNGROUNDED = "proprietary_ungrounded"
+
+
+class RetrievalStrategy(StrEnum):
+    STRUCTURED = "structured"  # answer from relational tables
+    DOCUMENT = "document"  # answer from chunk content (RAG)
+    HYBRID = "hybrid"  # both structured facts + document grounding
+    NONE = "none"  # no retrieval needed
 
 
 class ChunkSource(StrEnum):
     ASSET = "asset"
-    SUBMISSION = "submission"
-    FEEDBACK = "feedback"
+    HISTORY = "history"
